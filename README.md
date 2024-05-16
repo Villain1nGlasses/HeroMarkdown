@@ -1,2 +1,2 @@
 # HeroMarkdown
-Style specification for BaldarSilveraxe's Roll20 markdown scripts.
+Style specification for BaldarSilveraxe's (AKA Stephen S.) Roll20 markdown scripts.
