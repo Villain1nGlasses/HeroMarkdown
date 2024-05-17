@@ -23,25 +23,26 @@ p.first-of-type {
 }
 
 ul {
-	font-family: Montserrat, Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
-	font-size: 15px;
+	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-size: 14px;
 	list-style-position: inside;
 	padding-left: 5px;
 	margin-bottom: 0px;
 	text-indent: -5px;
+	list-style-type: square;
 }
 
 li {
-	font-family: Montserrat, Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial; 
-	font-size: 15px;
+	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-size: 14px;
 	list-style-position: inside;
 	margin-bottom: 0px;
 	text-indent: -5px;
 }
 
 ol {
-	font-family: Montserrat, Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
-	font-size: 15px;
+	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-size: 14px;
 	list-style-position: inside;
 	padding-left: 5px;
 	margin-bottom: 0px;
@@ -156,7 +157,6 @@ blockquote {
 	border-left: 2px solid;
 	border-right: 2px solid;
 	border-radius: 8px #0072B2;;
-	/* box-shadow: 1px 4px 14px #9AC4BE; */
 }
 
 p.blockquote {
@@ -294,7 +294,7 @@ sidebar {
 }
 
 statblock {
-	font-family: Montserrat, Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial, sans-serif !important;
+	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	padding: 5px 10px;
@@ -319,37 +319,43 @@ statblockcap {
 tr:first-child {
 	width: 100%;
 	text-align: left;
-	background: #3f3f3f;
-	font-family: Montserrat, Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial, sans-serif !important;
+	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
 	font-weight: bold;
 	font-size: 13px;
-	color: #ffffff;
-	border: 1px solid #3f3f3f !important;
+	color: #0072B2;
 	vertical-align: middle;
+	background: white;
+	border-bottom: 2px solid #3f3f3f !important;
 }
 
 tr:nth-child(even) {
 	width: 100%;
 	text-align: left;
-	background: transparent;
-	font-family: Montserrat, Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial, sans-serif !important;
+	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
 	font-size: 13px;
-	border: 1px solid #3f3f3f !important;
+	background: white;
 }
 
 tr:nth-child(odd) {
 	width: 100%;
 	text-align: left;
-	background: transparent;
-	font-family: Montserrat, Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial, sans-serif !important;
+	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
 	font-size: 13px;
-	border: 1px solid #3f3f3f !important;
-	border-bottom: 1px solid #3f3f3f !important;
+	background: #cce8f8;
+}
+
+tr:last-child {
+	width: 100%;
+	text-align: left;
+	background: transparent;
+	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-size: 13px;
+	border: 3px solid #3f3f3f !important;
 }
 
 table {
 	font-family: OCR A Std, Lucida Console, Monaco, Courier New;
-	color: black;
+	color: #292929;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
@@ -357,12 +363,11 @@ table {
 	margin-top: 1em;
 	margin-bottom: 1em;
 	padding: 5px 10px;
-	background-color: #9AC4BE;
-	border-top: 2px solid;
-	border-bottom: 2px solid;
+	background: transparent;
+	border-top: 0px solid;
+	border-bottom: 0px solid;
 	border-left: 0px solid;
 	border-right: 0px solid;
-	box-shadow: 1px 4px 14px #9AC4BE;
 }
 
 td.align-left {
@@ -370,7 +375,7 @@ td.align-left {
 	outline:none;
 	border: 0px !important;
 	border-spacing: 0;
-	border: 0px solid #ffffff !important;
+	border: 0px solid white !important;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	text-align: left;
@@ -380,7 +385,7 @@ td.align-center {
 	border-collapse:collapse;
 	border: none !important;
 	border-spacing: 0;
-	border: 0px solid #ffffff !important;
+	border: 0px solid white !important;
 	outline:none;
 	padding-top: 2px;
 	padding-bottom: 2px;
@@ -391,7 +396,7 @@ td.align-right {
 	border-collapse:collapse;
 	border: none !important;
 	border-spacing: 0;
-	border: 0px solid #ffffff !important;
+	border: 0px solid white !important;
 	outline:none;
 	padding-top: 2px;
 	padding-bottom: 2px;
