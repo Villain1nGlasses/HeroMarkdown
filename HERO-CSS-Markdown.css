@@ -427,7 +427,8 @@ hr.style3 {
 	border: 0;
 }
 
-cine_mode {width: 15px; height: 15px;}  
-campaign_mode {width: 15px; height: 15px;}  
-failure_dice {width: 15px; height: 15px;}  
-success_dice {width: 15px; height: 15px;}  
+warning_icon {width: 16px; height: 16px;}
+stop_icon {width: 16px; height: 16px;}
+superhero_icon {width: 16px; height: 16px;} 
+hero_icon {width: 16px; height: 16px;}
+hero_dice {width: 64px; height: 64px;}

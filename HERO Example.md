@@ -134,7 +134,7 @@ Use the below code directly in your markup to make a floating right sidebar.
 
 Can be any of the standard markup.
 
-![campaign_mode Campaign Mode](https://i.imgur.com/KNf8tY6.png) Including images
+![ HERO Icon Yellow](https://imgur.com/zkm1vrg.png) Including images
 
 </div>
 
@@ -146,7 +146,7 @@ Can be any of the standard markup.
 
 Can be any of the standard markup.
 
-![campaign_mode Campaign Mode](https://i.imgur.com/KNf8tY6.png) Including images
+![ HERO Icon Yellow](https://imgur.com/zkm1vrg.png) Including images
 
 </div>
 
@@ -223,33 +223,32 @@ ___
 
 ## In-Line Icons to Use Within Text
 
-![campaign_mode Campaign Mode](https://i.imgur.com/KNf8tY6.png) Campaign Mode
+![warning_icon Sometimes surprisingly effective element](https://i.imgur.com/NZhzgzH.png) Warning Icon
 
-![cine_mode Cine Mode](https://i.imgur.com/6ROPYDe.png) Cinematic Mode
+![stop_icon Campaign altering element](https://i.imgur.com/lo5nVWs.png) Stop Icon
 
-![failure_dice Failure Die](https://i.imgur.com/mqMd034.png) Failure Die
+![superhero_icon Intended for Superheroic campaign](https://imgur.com/h64Pr2r.png) Superheroic Icon
 
-![success_dice Success Die](https://i.imgur.com/M3TVReh.png) Success Die
-
-___
-
----
-
-## Success Die (full size)
-
-![Success Die](https://i.imgur.com/1lbZOpi.png)
+![hero_icon Intended for Heroic campaign](https://imgur.com/EXa2Hrl.png) Heroic Icon
 
 ___
 
 ---
 
-## Failure Die (full size)
+## HERO Icons (full size)
 
-![DeathDie](https://i.imgur.com/Ywa6FKZ.png)
+
+![ HERO Icon Blue](https://imgur.com/EXa2Hrl.png) ![ HERO Icon Light Blue](https://imgur.com/xWFZn6M.png)
+
+![ HERO Icon Light Gray](https://imgur.com/6apPhJo.png) ![ HERO Icon Yellow](https://imgur.com/zkm1vrg.png)
+
+___
 
 ---
 
----
+## HERO Dice Faces (quarter size)
+
+![hero_dice HERO Dice 1](https://imgur.com/sH3hwil.png) ![hero_dice HERO Dice 2](https://imgur.com/75Soj5G.png) ![hero_dice HERO Dice 3](https://imgur.com/jIPvWzX.png) ![hero_dice HERO Dice 4](https://imgur.com/2AaALVX.png) ![hero_dice HERO Dice 5](https://imgur.com/PzVOG4e.png) ![hero_dice HERO Dice 6](https://imgur.com/2jKf0BE.png)
 
 ___
 
