@@ -1,10 +1,11 @@
-[css](-Ny20scsdV4yq_kXEbAi)
+[css](-Ny7WAZXjn4U1jW_CRFr)
 
 bg {
 	/* background-image: url('https://imgur.com/a/hero-markdown-background-fGR0IXW.png'); */
 	padding: 30px;
 	padding-top: 1px;
 	margin: -30px;
+	max-width: 800px;
 	/* background-color: #4c9cc9; */
 }
 
@@ -52,7 +53,7 @@ ol {
 h1 {
 	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
 	background-image: linear-gradient(90deg, #99c6e0 0%, #0072B2 50%, #99c6e0 100%);
-	background-size: 800px 8px;
+	background-size: 100% 8px;
 	background-repeat: no-repeat;
 	background-position: center top;
 	color: #56B4E9;
@@ -72,9 +73,9 @@ h1 {
 	letter-spacing: 0.3em;
 	text-align: center;
 	font-size: 48px;
-	margin-top: 4px;
+	margin-top: 9px;
 	margin-bottom: 4px;
-	padding-top: 12px;
+	padding-top: 8px;
 	padding-bottom: 0px;
 	line-height: 1.1em;
 	clear: both;
@@ -110,11 +111,12 @@ h3 {
 
 h4 {
 	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
-	background-image: linear-gradient(90deg, #99c6e0 0%, #0072B2 50%, #99c6e0 100%);
+	background-image: linear-gradient(90deg, #99c6e0 0%, #0072B2 40%, #99c6e0 80%);
 	background-size: 800px 3px;
 	background-repeat: no-repeat;
-	background-position: center bottom;
+	background-position: left bottom;
 	color: #0072B2;
+	max-width: 800px;
 	text-transform: uppercase;
 	font-size: 16px;
 	margin-top: 2px;
