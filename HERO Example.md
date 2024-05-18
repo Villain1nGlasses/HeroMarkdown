@@ -58,11 +58,7 @@ ___
 
 ---
 
-## (note that heading 5 above is black, and can be seen when highlighted)
-
----
-
-
+#### Quote Block
 
 > Quote
 
@@ -132,7 +128,7 @@ ___
 
 Use the below code directly in your markup to make a floating right sidebar.
 
-<div style="font-family: OCR A Std, Lucida Console, Monaco, Courier New; float:right; margin-left: 6px; width: 40%; margin-top: 1em; margin-bottom: 1em; padding: 5px 10px; background-color: #3f3f3f; border-top: 2px solid; border-bottom: 2px solid; border-left: 0px solid; border-right: 0px solid; box-shadow: 1px 4px 14px #888;">
+<div style="font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial; float:right; margin-left: 6px; width: 40%; margin-top: 1em; margin-bottom: 1em; padding: 5px 10px; background-image: linear-gradient(#e5f0f7, #99c6e0); border-top: 4px solid #0072B2; color: black;">
 
 ## Content Here
 
@@ -144,7 +140,7 @@ Can be any of the standard markup.
 
 ```
 
-<div style="font-family: OCR A Std, Lucida Console, Monaco, Courier New; float:right; margin-left: 6px; width: 40%; margin-top: 1em; margin-bottom: 1em; padding: 5px 10px; background-color: #3f3f3f; border-top: 2px solid; border-bottom: 2px solid; border-left: 0px solid; border-right: 0px solid; box-shadow: 1px 4px 14px #888;">
+<div style="font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial; float:right; margin-left: 6px; width: 40%; margin-top: 1em; margin-bottom: 1em; padding: 5px 10px; background-image: linear-gradient(#ddf0fa, #88caef); border-top: 2px solid; border-bottom: 2px solid; border-left: 0px solid; border-right: 0px solid;">
 
 ## Content Here
 
