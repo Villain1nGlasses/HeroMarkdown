@@ -50,10 +50,10 @@ This Heading should be red.
 ```
 
 
-### B. Switching to Alien RPG Styling
+### B. Switching to HERO System Styling
 If all has worked correctly in the previous steps, do the following.
 
-Open the AlienRPG-CSS-Markdown file (https://github.com/slugnet/roll20/blob/main/AlienRPGMarkdown/AlienRPG-CSS-Markdown) and copy/paste everything to the **"GM Notes"** section of the  **"Style Sheet"** **"Handout"**. **Delete** or overwrite the text that reads:
+Open the HERO-CSS-Markdown file (https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-CSS-Markdown.css) and copy/paste everything to the **"GM Notes"** section of the  **"Style Sheet"** **"Handout"**. **Delete** or overwrite the text that reads:
 ```
 [css]
 h1 {color: red;}
@@ -61,19 +61,19 @@ h1 {color: red;}
 **Save changes.**
 In the **"Description & Notes"** section you should see the processed **CSS**
 ```
-[css](-LxpMeYSNUYwZIVXxguT) <-- will not be this code, was replaced earlier
+[css](-LxpMeYSNUYwZIVXxguT) <-- will not be this code, was replaced earlier.
 
 bg {
-	background-image: url('https://i.imgur.com/VvrAS6F.png');
 	padding: 30px;
 	padding-top: 1px;
 	margin: -30px;
+	max-width: 800px;
 }
 
 etc.
 ```
 
-Now, open the HERO Example Markdown file (https://github.com/slugnet/roll20/blob/main/AlienRPGMarkdown/Alien%20RPG%20Example%20Markdown) and copy/paste everything to the **"GM Notes"** section of the **"Markdown Handout"** **"Handout"** below the two lines that read:
+Now, open the HERO Example Markdown file (https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-Example.md) and copy/paste everything to the **"GM Notes"** section of the **"Markdown Handout"** **"Handout"** below the two lines that read:
 ```
 [md]
 [css](-LxpMeYSNUYwZIVXxguT) <-- will not be this code, was replaced earlier
