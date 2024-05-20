@@ -141,12 +141,12 @@ blockquote {
 	margin-top: 1em;
 	margin-bottom: 1em;
 	padding: 5px 10px;
-	background-image: linear-gradient(90deg, #66bbeb 0%, #ddf0fa 100%);
-	border-top: 2px solid;
-	border-bottom: 2px solid;
-	border-left: 2px solid;
-	border-right: 2px solid;
-	border-radius: 8px #0072B2;;
+	background-image: linear-gradient(270deg, #e5f0f7, #99c6e0);
+	border-top: 2px solid #0072B2;
+	border-bottom: 2px solid #0072B2;
+	border-left: 2px solid #0072B2;
+	border-right: 2px solid #0072B2;
+	border-radius: 8px;
 }
 
 p.blockquote {
@@ -418,7 +418,7 @@ hr.style3 {
 	border: 0;
 }
 
-featured {width: 80%; height: 80%; float: center;}
+featured {width: 80%; height: 80%; padding-left: 10%;}
 warning_icon {width: 16px; height: 16px;}
 stop_icon {width: 16px; height: 16px;}
 superhero_icon {width: 16px; height: 16px;} 
