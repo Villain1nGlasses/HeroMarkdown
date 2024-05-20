@@ -377,7 +377,7 @@ ___
 
 ### Right 40% Width
 
-![right Right 40 Name](https://imgur.com/mLZOEIj.png)
+![right Right 40 Name](https://tinyurl.com/2tcd9cut)
 
 ---
 
