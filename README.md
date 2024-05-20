@@ -1,7 +1,7 @@
 # HeroMarkdown
 Style specification for BaldarSilveraxe's (AKA Stephen S.) Roll20 markdown scripts. Working off of slugnet's Alien RPG excellent conversion.
 
-# Quickstart Using the Alien RPG CSS and Markdown in Roll20
+# Quickstart Using the HERO System CSS and Markdown in Roll20
 
 ## Part 1 - Install the API Scripts on Roll20
 You will need to either have an existing game on Roll20, or create a new game.
@@ -73,7 +73,7 @@ bg {
 etc.
 ```
 
-Now, open the Alien RPG Example Markdown file (https://github.com/slugnet/roll20/blob/main/AlienRPGMarkdown/Alien%20RPG%20Example%20Markdown) and copy/paste everything to the **"GM Notes"** section of the **"Markdown Handout"** **"Handout"** below the two lines that read:
+Now, open the HERO Example Markdown file (https://github.com/slugnet/roll20/blob/main/AlienRPGMarkdown/Alien%20RPG%20Example%20Markdown) and copy/paste everything to the **"GM Notes"** section of the **"Markdown Handout"** **"Handout"** below the two lines that read:
 ```
 [md]
 [css](-LxpMeYSNUYwZIVXxguT) <-- will not be this code, was replaced earlier
