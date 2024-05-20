@@ -6,9 +6,9 @@
 
 ---
 
-## This is a quote. It should be very interesting and evocative.
+## CHAPTER
 
-### —Who said it
+### SECTION
 
 ---
 
@@ -16,21 +16,7 @@
 
 ---
 
-> SHIP’S LOG, ROLL20, 006:00. CAPTAIN ONLINE GAME PLAYER RECORDING.
-
-> This is a log entry. It will have interesting info, but is mostly used to set the tone. Slightly spooky, and no one knows what is going on. Game over man! ■
-
----
-
-The following text is from https://www.alien-rpg.com/.
-
-Space is vast, dark, and not your friend. Gamma rays and neutrino bursts erupt from dying stars to cook you alive, black holes tear you apart, and the void itself boils your blood and seizes your brain. Try to scream and no one can hear you—hold your breath and you rupture your lungs. Space isn’t as empty as you’d think, either—its frontiers are ever expanding. Rival governments wage a cold war of aggression while greedy corporations vie for valuable resources. Colonists reach for the stars and gamble with their lives—each new world tamed is either feast or famine. And there are things lurking in the shadows of every asteroid—things strange and different and deadly.
-
-Things alien.
-
-This is the official ALIEN tabletop roleplaying game—a universe of body horror and corporate brinkmanship, where synthetic people play god while space truckers and marines serve host to newborn ghoulish creatures. It’s a harsh and unforgiving universe and you are nothing if not expendable.
-
-Stay alive if you can. ■
+Introductory text that says plenty, but never enough.
 
 ---
 
@@ -82,7 +68,7 @@ The part in yellow is ```inline code.```
 
 ___
 
-### Graphic
+### Thematic Break
 
 ***
 
@@ -227,9 +213,11 @@ ___
 
 ![stop_icon Campaign altering element](https://i.imgur.com/lo5nVWs.png) Stop Icon
 
-![superhero_icon Intended for Superheroic campaign](https://imgur.com/h64Pr2r.png) Superheroic Icon
+![superhero_icon Superheroic campaign icon](https://imgur.com/h64Pr2r.png) Superheroic Icon
 
-![hero_icon Intended for Heroic campaign](https://imgur.com/EXa2Hrl.png) Heroic Icon
+![hero_icon Heroic campaign icon](https://imgur.com/EXa2Hrl.png) Heroic Icon
+
+![grimoire_icon Grimoire spell icon](https://imgur.com/O6tobwI.png) Grimoire Icon
 
 ___
 
@@ -417,8 +405,9 @@ ___
 
 ![warning_icon Sometimes surprisingly effective element](https://i.imgur.com/NZhzgzH.png) Warning Icon
 ![stop_icon Campaign altering element](https://i.imgur.com/lo5nVWs.png) Stop Icon
-![superhero_icon Intended for Superheroic campaign](https://imgur.com/h64Pr2r.png) Superheroic Icon
-![hero_icon Intended for Heroic campaign](https://imgur.com/EXa2Hrl.png) Heroic Icon
+![superhero_icon Superheroic campaign icon](https://imgur.com/h64Pr2r.png) Superheroic Icon
+![hero_icon Heroic campaign icon](https://imgur.com/EXa2Hrl.png) Heroic Icon
+![grimoire_icon Grimoire spell icon](https://imgur.com/ru3nkSE.png) Grimoire Icon
 
 ![ HERO Icon Blue](https://imgur.com/EXa2Hrl.png) 
 ![ HERO Icon Light Blue](https://imgur.com/xWFZn6M.png)

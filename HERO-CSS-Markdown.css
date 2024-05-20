@@ -398,8 +398,11 @@ td.align-right {
 hr {
 	display:block;
 	border:0px;
-	height:11px;
-	background-image:url('https://i.imgur.com/d9WfyNb.png');
+	height:64px;
+	width: 800px;
+	align: center;
+	background-image:url('https://imgur.com/eVAYTUN.png');
+	background-position: center;
 	background-repeat: no-repeat;
 }
 
@@ -421,4 +424,5 @@ warning_icon {width: 16px; height: 16px;}
 stop_icon {width: 16px; height: 16px;}
 superhero_icon {width: 16px; height: 16px;} 
 hero_icon {width: 16px; height: 16px;}
+grimoire_icon {width: 32px; height: 32px;}
 hero_dice {width: 64px; height: 64px;}
