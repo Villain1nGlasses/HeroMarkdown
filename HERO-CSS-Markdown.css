@@ -418,6 +418,7 @@ hr.style3 {
 	border: 0;
 }
 
+featured {width: 80%; height: 80%; float: center;}
 warning_icon {width: 16px; height: 16px;}
 stop_icon {width: 16px; height: 16px;}
 superhero_icon {width: 16px; height: 16px;} 
