@@ -413,6 +413,9 @@ ___
 
 ![grimoire_icon Grimoire spell icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Spell_Pentagram.png?raw=true)
 
+---
+
+---
 
 ![ HERO Icon Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Blue.png?raw=true) 
 
@@ -422,6 +425,9 @@ ___
 
 ![ HERO Icon Yellow](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Yellow.png?raw=true)
 
+---
+
+---
 
 ![hero_dice HERO Dice 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_1.png?raw=true) 
 ![hero_dice HERO Dice 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_2.png?raw=true) 
@@ -430,11 +436,19 @@ ___
 ![hero_dice HERO Dice 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_5.png?raw=true) 
 ![hero_dice HERO Dice 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_6.png?raw=true)
 
+---
+
+---
+
 ![right-thumb right thumb name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Hero_System_Sixth_Edition_Blue.png?raw=true) 
 
 ![left-thumb left thumb name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Hero_System_Sixth_Edition_Color.png?raw=true)
 
 ![featured featured name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Karl_Friedrich_Schinkel.png?raw=true)
+
+---
+
+---
 
 ![left-icon Left Icon Chapter 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_01.png?raw=true)
 ![left-icon Left Icon Chapter 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_02.png?raw=true)
@@ -443,12 +457,20 @@ ___
 ![left-icon Left Icon Chapter 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_05.png?raw=true)
 ![left-icon Left Icon Chapter 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_06.png?raw=true)
 
+---
+
+---
+
 ![right-icon Right Icon Chapter 7](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_07.png?raw=true)
 ![right-icon Right Icon Chapter 8](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_08.png?raw=true)
 ![right-icon Right Icon Chapter 9](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_09.png?raw=true)
 ![right-icon Right Icon Chapter 10](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_10.png?raw=true)
 ![right-icon Right Icon Chapter 11](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_11.png?raw=true)
 ![right-icon Right Icon Chapter 12](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_12.png?raw=true)
+
+---
+
+---
 
 ![center Center Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png?raw=true)
 
