@@ -1,468 +1,468 @@
-	[md]
-	
-	[css](-Ny20scsdV4yq_kXEbAi)
-	
-	# PAGE TITLE
-	
-	---
-	
-	## CHAPTER
-	
-	### SECTION
-	
-	---
-	
-	![featured featured name](https://imgur.com/eiBslTY.png)
-	
-	---
-	
-	Introductory text that says plenty, but never enough.
-	
-	---
-	
-	___
-	
-	# Formatting Examples
-	
-	---
-	
-	## The easiest way to use this section is to open the GM Notes to view the formatting.
-	
-	---
-	
-	___
-	
-	---
-	
-	# Heading 1
-	
-	## Heading 2
-	### Heading 3
-	#### Heading 4
-	##### Heading 5
-	###### Heading 6
-	
-	---
-	
-	#### Quote Block
-	
-	> Quote
-	
-	> Multi-line quote sentence one.
-	> Multi-line quote sentence two.
-	
-	> Nested.
-	> > Quotes.
-	
-	```
-	Code Block
-	```
-	
-	The part in yellow is ```inline code.```
-	
-	---
-	
-	## Line Breaks/Horizontal Rules
-	
-	### Solid White Line
-	
-	___
-	
-	### Thematic Break
-	
-	***
-	
-	### Blank Space
-	
-	---
-	
-	## Tables
-	
-	---
-	
-	
-	|Cell A1|Cell B1|Cell B1|
-	
-	|Cell A2 Left Justified| Center Justified Cell B2| Right Justified Cell B2|
-	|Cell A3|Cell B3|Cell B3|
-	|Cell A4|Cell B4|Cell B4|
-	|Cell A5|Cell B5|Cell B5|
-	
-	---
-	
-	## Lists
-	
-	1. Item # 1
-	1. Item # 2   
-	
-		1. Sub Item # 1 (indented four (4) spaces)        
-	
-		1. Sub Item # 2 (indented four (4) spaces)
-	1. Item # 3
-	
-	- Item
-	- Item
-	
-		- Sub Item (indented four (4) spaces)
-	
-		- Sub Item (indented four (4) spaces)
-	- Item
-	
-	---
-	
-	## Floating Right Sidebar
-	
-	Use the below code directly in your markup to make a floating right sidebar.
-	
-	<div style="font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial; float:right; margin-left: 6px; width: 40%; margin-top: 1em; margin-bottom: 1em; padding: 5px 10px; background-image: linear-gradient(#e5f0f7, #99c6e0); border-top: 4px solid #0072B2; color: black;">
-	
-	## Content Here
-	
-	Can be any of the standard markup.
-	
-	![right20 Right 20 Name](https://imgur.com/BMu1qDX.png) Including images
-	
-	</div>
-	
-	```
-	
-	<div style="font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial; float:right; margin-left: 6px; width: 40%; margin-top: 1em; margin-bottom: 1em; padding: 5px 10px; background-image: linear-gradient(#ddf0fa, #88caef); border-top: 2px solid; border-bottom: 2px solid; border-left: 0px solid; border-right: 0px solid;">
-	
-	## Content Here
-	
-	Can be any of the standard markup.
-	
-	![right20 Right 20 Name](https://imgur.com/BMu1qDX.png) Including images
-	
-	</div>
-	
-	```
-	
-	---
-	
-	---
-	
-	## Links and Other Formatting
-	
-	
-	**Link to Handout:** [(Markdown Getting Started)]
-	**Link to webpage:** [Journal Command Buttons](https://wiki.roll20.net/Journal#Journal_Command_Buttons)
-	**Link to chat roll:** [Dagger Attack](`/roll 1d20+2 vs AC /roll 1d4 Damage )
-	**Link to chat inline roll:** [Roll 1d6](`[[1d6]])
-	**Link to API command:** [API Command](`!apitlinktest)
-	
-	---
-	
-	## Font Styles
-	
-	---
-	*italic*
-	
-	**bold**
-	
-	***italic and bold***
-	
-	~~strike~~
-	
-	---
-	<div style="text-align: center">
-	
-	#### Center this section
-	Using direct HTML
-	</div>
-	
-	
-	```
-	<div style="text-align: center">
-	#### Center this section
-	Using direct HTML
-	</div>
-	```
-	
-	---
-	
-	## Standard CSS items included in stylesheet
-	
-	```
-	bg, // background
-	
-	p // standard text
-	
-	h1, h2, h3, h4, h5, h6 // headers
-	pre, // code block
-	code, // inline code
-	blockquote, p.blockquote // blockquote
-	table, tbody, // table
-	tr:first-child, tr:nth-child(even), tr:nth-child(odd), tr:nth-child(last), // table header/even/odd rows
-	td.align-left, td.align-center, td.align-right, // |:---|:----:|---:| // table alignment
-	ol, ul, li.ordered, li.unordered, // ordered and unordered lists
-	
-	___, ---, *** / horizontal rule
-	
-	```
-	
-	___
-	
-	
-	
-	# Using Images
-	
-	## In-Line Icons to Use Within Text
-	
-	![warning_icon Sometimes surprisingly effective element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Warning.png) Warning Icon
-	
-	![stop_icon Campaign altering element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/STOP.png) Stop Icon
-	
-	![superhero_icon Superheroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Bolt.png) Superheroic Icon
-	
-	![hero_icon Heroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Blue.png) Heroic Icon
-	
-	![grimoire_icon Grimoire spell icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Spell_Pentagram.png) Grimoire Icon
-	
-	___
-	
-	---
-	
-	## HERO Icons (full size)
-	
-	
-	![ HERO Icon Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Blue.png) ![ HERO Icon Light Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Light_Blue.png)
-	
-	![ HERO Icon Light Gray](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Light_Gray.png) ![ HERO Icon Yellow](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Yellow.png)
-	
-	___
-	
-	---
-	
-	## HERO Dice Faces (quarter size)
-	
-	![hero_dice HERO Dice 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_1.png) ![hero_dice HERO Dice 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_2.png) ![hero_dice HERO Dice 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_3.png) ![hero_dice HERO Dice 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_4.png) ![hero_dice HERO Dice 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_5.png) ![hero_dice HERO Dice 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_6.png)
-	
-	___
-	
-	---
-	
-	### Right Thumb (140px max height)
-	
-	![right-thumb right thumb name](https://imgur.com/IqtIFrX.png) 
-	
-	---
-	
-	---
-	
-	___
-	
-	---
-	
-	### Left Thumb (140px max height)
-	
-	![left-thumb left thumb name](https://imgur.com/jm8aG2H.png)
-	
-	---
-	
-	---
-	
-	___
-	
-	---
-	
-	### Featured Image (80% Width)
-	
-	![featured featured name](https://imgur.com/eiBslTY.png)
-	
-	---
-	
-	---
-	
-	___
-	
-	---
-	
-	### Left Icons (50px max width)
-	
-	![left-icon Left Icon Chapter 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_01.png)
-	
-	---
-	
-	![left-icon Left Icon Chapter 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_02.png)
-	
-	---
-	
-	![left-icon Left Icon Chapter 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_03.png)
-	
-	---
-	
-	![left-icon Left Icon Chapter 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_04.png)
-	
-	---
-	
-	![left-icon Left Icon Chapter 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_05.png)
-	
-	---
-	
-	![left-icon Left Icon Chapter 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_06.png)
-	
-	---
-	
-	---
-	
-	___
-	
-	---
-	
-	### Right Icons (50px max width)
-	
-	![right-icon Right Icon Chapter 7](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_07.png)
-	
-	---
-	
-	![right-icon Right Icon Chapter 8](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_08.png)
-	
-	---
-	
-	![right-icon Right Icon Chapter 9](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_09.png)
-	
-	---
-	
-	![right-icon Right Icon Chapter 10](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_10.png)
-	
-	---
-	
-	![right-icon Right Icon Chapter 11](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_11.png)
-	
-	---
-	
-	![right-icon Right Icon Chapter 12](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_12.png)
-	
-	---
-	
-	---
-	
-	___
-	
-	---
-	
-	### Center (full size)
-	
-	![center Center Name](https://imgur.com/BMu1qDX.png)
-	
-	---
-	
-	---
-	
-	### Left 20% Width
-	
-	![left20 Left 20 Name](https://imgur.com/BMu1qDX.png)
-	
-	---
-	
-	---
-	
-	
-	### Right 20% Width
-	
-	![right20 Right 20 Name](https://imgur.com/BMu1qDX.png)
-	
-	---
-	
-	---
-	
-	### Left 40% Width
-	
-	![left Left 40 Name](https://imgur.com/Srvc8c1.png)
-	
-	---
-	
-	---
-	
-	### Right 40% Width
-	
-	![right Right 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Castle_on_the_Rhine.png)
-	
-	---
-	
-	---
-	
-	### Left 60% Width
-	
-	![left60 Left 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Giovanni_Maria_Quaglio.png)
-	
-	---
-	
-	---
-	
-	### Right 60% Width
-	
-	![right60 Right 60 Name](https://imgur.com/yxUk1kw.png)
-	
-	---
-	
-	---
-	
-	___
-	
-	```
-	
-	![warning_icon Sometimes surprisingly effective element](https://i.imgur.com/NZhzgzH.png) Warning Icon
-	![stop_icon Campaign altering element](https://i.imgur.com/lo5nVWs.png) Stop Icon
-	![superhero_icon Superheroic campaign icon](https://imgur.com/h64Pr2r.png) Superheroic Icon
-	![hero_icon Heroic campaign icon](https://imgur.com/EXa2Hrl.png) Heroic Icon
-	![grimoire_icon Grimoire spell icon](https://imgur.com/ru3nkSE.png) Grimoire Icon
-	
-	![ HERO Icon Blue](https://imgur.com/EXa2Hrl.png) 
-	![ HERO Icon Light Blue](https://imgur.com/xWFZn6M.png)
-	![ HERO Icon Light Gray](https://imgur.com/6apPhJo.png) 
-	![ HERO Icon Yellow](https://imgur.com/zkm1vrg.png)
-	
-	![hero_dice HERO Dice 1](https://imgur.com/sH3hwil.png)
-	![hero_dice HERO Dice 2](https://imgur.com/75Soj5G.png)
-	![hero_dice HERO Dice 3](https://imgur.com/jIPvWzX.png)
-	![hero_dice HERO Dice 4](https://imgur.com/2AaALVX.png)
-	![hero_dice HERO Dice 5](https://imgur.com/PzVOG4e.png)
-	![hero_dice HERO Dice 6](https://imgur.com/2jKf0BE.png)
-	
-	![right-thumb right thumb name](https://imgur.com/IqtIFrX.png) 
-	
-	![left-thumb left thumb name](https://imgur.com/jm8aG2H.png)
-	
-	![featured featured name](https://imgur.com/zMRQgrA.png)
-	
-	![left-icon Left Icon Chapter 1](https://imgur.com/1Ezos9G.png)
-	![left-icon Left Icon Chapter 2](https://imgur.com/cknBZhQ.png)
-	![left-icon Left Icon Chapter 3](https://imgur.com/v2hmxF9.png)
-	![left-icon Left Icon Chapter 4](https://imgur.com/Zd217m5.png)
-	![left-icon Left Icon Chapter 5](https://imgur.com/k2xK0D2.png)
-	![left-icon Left Icon Chapter 6](https://imgur.com/hsIrF31.png)
-	
-	![right-icon Right Icon Chapter 7](https://imgur.com/709z3Mf.png)
-	![right-icon Right Icon Chapter 8](https://imgur.com/xvu8RV0.png)
-	![right-icon Right Icon Chapter 9](https://imgur.com/TYKkkfw.png)
-	![right-icon Right Icon Chapter 10](https://imgur.com/I6eMwOX.png)
-	![right-icon Right Icon Chapter 11](https://imgur.com/7Gukwn4.png)
-	![right-icon Right Icon Chapter 12](https://imgur.com/4RntXeM.png)
-	
-	![center Center Name](https://imgur.com/BMu1qDX.png)
-	
-	![left20 Left 20 Name](https://imgur.com/BMu1qDX.png)
-	
-	![right20 Right 20 Name](https://imgur.com/BMu1qDX.png)
-	
-	![left Left 40 Name](https://imgur.com/Srvc8c1.png)
-	
-	![right Right 40 Name](https://imgur.com/mLZOEIj.png)
-	
-	![left60 Left 60 Name](https://imgur.com/SmdBnAz.png)
-	
-	![right60 Right 60 Name](https://imgur.com/yxUk1kw.png)
-	
-	```
-	
-	---
-	
-	---
-	
-	---
-	
-	---
-	
-	---
+[md]
+
+[css](-Ny20scsdV4yq_kXEbAi)
+
+# PAGE TITLE
+
+---
+
+## CHAPTER
+
+### SECTION
+
+---
+
+![featured featured name](https://imgur.com/eiBslTY.png)
+
+---
+
+Introductory text that says plenty, but never enough.
+
+---
+
+___
+
+# Formatting Examples
+
+---
+
+## The easiest way to use this section is to open the GM Notes to view the formatting.
+
+---
+
+___
+
+---
+
+# Heading 1
+
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+---
+
+#### Quote Block
+
+> Quote
+
+> Multi-line quote sentence one.
+> Multi-line quote sentence two.
+
+> Nested.
+> > Quotes.
+
+```
+Code Block
+```
+
+The part in yellow is ```inline code.```
+
+---
+
+## Line Breaks/Horizontal Rules
+
+### Solid White Line
+
+___
+
+### Thematic Break
+
+***
+
+### Blank Space
+
+---
+
+## Tables
+
+---
+
+
+|Cell A1|Cell B1|Cell B1|
+
+|Cell A2 Left Justified| Center Justified Cell B2| Right Justified Cell B2|
+|Cell A3|Cell B3|Cell B3|
+|Cell A4|Cell B4|Cell B4|
+|Cell A5|Cell B5|Cell B5|
+
+---
+
+## Lists
+
+1. Item # 1
+1. Item # 2   
+
+	1. Sub Item # 1 (indented four (4) spaces)        
+
+	1. Sub Item # 2 (indented four (4) spaces)
+1. Item # 3
+
+- Item
+- Item
+
+	- Sub Item (indented four (4) spaces)
+
+	- Sub Item (indented four (4) spaces)
+- Item
+
+---
+
+## Floating Right Sidebar
+
+Use the below code directly in your markup to make a floating right sidebar.
+
+<div style="font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial; float:right; margin-left: 6px; width: 40%; margin-top: 1em; margin-bottom: 1em; padding: 5px 10px; background-image: linear-gradient(#e5f0f7, #99c6e0); border-top: 4px solid #0072B2; color: black;">
+
+## Content Here
+
+Can be any of the standard markup.
+
+![right20 Right 20 Name](https://imgur.com/BMu1qDX.png) Including images
+
+</div>
+
+```
+
+<div style="font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial; float:right; margin-left: 6px; width: 40%; margin-top: 1em; margin-bottom: 1em; padding: 5px 10px; background-image: linear-gradient(#ddf0fa, #88caef); border-top: 2px solid; border-bottom: 2px solid; border-left: 0px solid; border-right: 0px solid;">
+
+## Content Here
+
+Can be any of the standard markup.
+
+![right20 Right 20 Name](https://imgur.com/BMu1qDX.png) Including images
+
+</div>
+
+```
+
+---
+
+---
+
+## Links and Other Formatting
+
+
+**Link to Handout:** [(Markdown Getting Started)]
+**Link to webpage:** [Journal Command Buttons](https://wiki.roll20.net/Journal#Journal_Command_Buttons)
+**Link to chat roll:** [Dagger Attack](`/roll 1d20+2 vs AC /roll 1d4 Damage )
+**Link to chat inline roll:** [Roll 1d6](`[[1d6]])
+**Link to API command:** [API Command](`!apitlinktest)
+
+---
+
+## Font Styles
+
+---
+*italic*
+
+**bold**
+
+***italic and bold***
+
+~~strike~~
+
+---
+<div style="text-align: center">
+
+#### Center this section
+Using direct HTML
+</div>
+
+
+```
+<div style="text-align: center">
+#### Center this section
+Using direct HTML
+</div>
+```
+
+---
+
+## Standard CSS items included in stylesheet
+
+```
+bg, // background
+
+p // standard text
+
+h1, h2, h3, h4, h5, h6 // headers
+pre, // code block
+code, // inline code
+blockquote, p.blockquote // blockquote
+table, tbody, // table
+tr:first-child, tr:nth-child(even), tr:nth-child(odd), tr:nth-child(last), // table header/even/odd rows
+td.align-left, td.align-center, td.align-right, // |:---|:----:|---:| // table alignment
+ol, ul, li.ordered, li.unordered, // ordered and unordered lists
+
+___, ---, *** / horizontal rule
+
+```
+
+___
+
+
+
+# Using Images
+
+## In-Line Icons to Use Within Text
+
+![warning_icon Sometimes surprisingly effective element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Warning.png) Warning Icon
+
+![stop_icon Campaign altering element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/STOP.png) Stop Icon
+
+![superhero_icon Superheroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Bolt.png) Superheroic Icon
+
+![hero_icon Heroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Blue.png) Heroic Icon
+
+![grimoire_icon Grimoire spell icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Spell_Pentagram.png) Grimoire Icon
+
+___
+
+---
+
+## HERO Icons (full size)
+
+
+![ HERO Icon Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Blue.png) ![ HERO Icon Light Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Light_Blue.png)
+
+![ HERO Icon Light Gray](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Light_Gray.png) ![ HERO Icon Yellow](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Yellow.png)
+
+___
+
+---
+
+## HERO Dice Faces (quarter size)
+
+![hero_dice HERO Dice 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_1.png) ![hero_dice HERO Dice 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_2.png) ![hero_dice HERO Dice 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_3.png) ![hero_dice HERO Dice 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_4.png) ![hero_dice HERO Dice 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_5.png) ![hero_dice HERO Dice 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_6.png)
+
+___
+
+---
+
+### Right Thumb (140px max height)
+
+![right-thumb right thumb name](https://imgur.com/IqtIFrX.png) 
+
+---
+
+---
+
+___
+
+---
+
+### Left Thumb (140px max height)
+
+![left-thumb left thumb name](https://imgur.com/jm8aG2H.png)
+
+---
+
+---
+
+___
+
+---
+
+### Featured Image (80% Width)
+
+![featured featured name](https://imgur.com/eiBslTY.png)
+
+---
+
+---
+
+___
+
+---
+
+### Left Icons (50px max width)
+
+![left-icon Left Icon Chapter 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_01.png)
+
+---
+
+![left-icon Left Icon Chapter 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_02.png)
+
+---
+
+![left-icon Left Icon Chapter 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_03.png)
+
+---
+
+![left-icon Left Icon Chapter 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_04.png)
+
+---
+
+![left-icon Left Icon Chapter 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_05.png)
+
+---
+
+![left-icon Left Icon Chapter 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_06.png)
+
+---
+
+---
+
+___
+
+---
+
+### Right Icons (50px max width)
+
+![right-icon Right Icon Chapter 7](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_07.png)
+
+---
+
+![right-icon Right Icon Chapter 8](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_08.png)
+
+---
+
+![right-icon Right Icon Chapter 9](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_09.png)
+
+---
+
+![right-icon Right Icon Chapter 10](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_10.png)
+
+---
+
+![right-icon Right Icon Chapter 11](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_11.png)
+
+---
+
+![right-icon Right Icon Chapter 12](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_12.png)
+
+---
+
+---
+
+___
+
+---
+
+### Center (full size)
+
+![center Center Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png)
+
+---
+
+---
+
+### Left 20% Width
+
+![left20 Left 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png)
+
+---
+
+---
+
+
+### Right 20% Width
+
+![right20 Right 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png)
+
+---
+
+---
+
+### Left 40% Width
+
+![left Left 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png)
+
+---
+
+---
+
+### Right 40% Width
+
+![right Right 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Castle_on_the_Rhine.png)
+
+---
+
+---
+
+### Left 60% Width
+
+![left60 Left 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Giovanni_Maria_Quaglio.png)
+
+---
+
+---
+
+### Right 60% Width
+
+![right60 Right 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Romolo_Achille_Liverani.png)
+
+---
+
+---
+
+___
+
+```
+
+![warning_icon Sometimes surprisingly effective element](https://i.imgur.com/NZhzgzH.png) Warning Icon
+![stop_icon Campaign altering element](https://i.imgur.com/lo5nVWs.png) Stop Icon
+![superhero_icon Superheroic campaign icon](https://imgur.com/h64Pr2r.png) Superheroic Icon
+![hero_icon Heroic campaign icon](https://imgur.com/EXa2Hrl.png) Heroic Icon
+![grimoire_icon Grimoire spell icon](https://imgur.com/ru3nkSE.png) Grimoire Icon
+
+![ HERO Icon Blue](https://imgur.com/EXa2Hrl.png) 
+![ HERO Icon Light Blue](https://imgur.com/xWFZn6M.png)
+![ HERO Icon Light Gray](https://imgur.com/6apPhJo.png) 
+![ HERO Icon Yellow](https://imgur.com/zkm1vrg.png)
+
+![hero_dice HERO Dice 1](https://imgur.com/sH3hwil.png)
+![hero_dice HERO Dice 2](https://imgur.com/75Soj5G.png)
+![hero_dice HERO Dice 3](https://imgur.com/jIPvWzX.png)
+![hero_dice HERO Dice 4](https://imgur.com/2AaALVX.png)
+![hero_dice HERO Dice 5](https://imgur.com/PzVOG4e.png)
+![hero_dice HERO Dice 6](https://imgur.com/2jKf0BE.png)
+
+![right-thumb right thumb name](https://imgur.com/IqtIFrX.png) 
+
+![left-thumb left thumb name](https://imgur.com/jm8aG2H.png)
+
+![featured featured name](https://imgur.com/zMRQgrA.png)
+
+![left-icon Left Icon Chapter 1](https://imgur.com/1Ezos9G.png)
+![left-icon Left Icon Chapter 2](https://imgur.com/cknBZhQ.png)
+![left-icon Left Icon Chapter 3](https://imgur.com/v2hmxF9.png)
+![left-icon Left Icon Chapter 4](https://imgur.com/Zd217m5.png)
+![left-icon Left Icon Chapter 5](https://imgur.com/k2xK0D2.png)
+![left-icon Left Icon Chapter 6](https://imgur.com/hsIrF31.png)
+
+![right-icon Right Icon Chapter 7](https://imgur.com/709z3Mf.png)
+![right-icon Right Icon Chapter 8](https://imgur.com/xvu8RV0.png)
+![right-icon Right Icon Chapter 9](https://imgur.com/TYKkkfw.png)
+![right-icon Right Icon Chapter 10](https://imgur.com/I6eMwOX.png)
+![right-icon Right Icon Chapter 11](https://imgur.com/7Gukwn4.png)
+![right-icon Right Icon Chapter 12](https://imgur.com/4RntXeM.png)
+
+![center Center Name](https://imgur.com/BMu1qDX.png)
+
+![left20 Left 20 Name](https://imgur.com/BMu1qDX.png)
+
+![right20 Right 20 Name](https://imgur.com/BMu1qDX.png)
+
+![left Left 40 Name](https://imgur.com/Srvc8c1.png)
+
+![right Right 40 Name](https://imgur.com/mLZOEIj.png)
+
+![left60 Left 60 Name](https://imgur.com/SmdBnAz.png)
+
+![right60 Right 60 Name](https://imgur.com/yxUk1kw.png)
+
+```
+
+---
+
+---
+
+---
+
+---
+
+---
