@@ -12,7 +12,7 @@
 
 ---
 
-![featured featured name](https://i.imgur.com/EfuCREm.jpg)
+![featured featured name](https://imgur.com/eiBslTY.png)
 
 ---
 
@@ -134,7 +134,7 @@ Use the below code directly in your markup to make a floating right sidebar.
 
 Can be any of the standard markup.
 
-![ HERO Icon Yellow](https://imgur.com/zkm1vrg.png) Including images
+![right20 Right 20 Name](https://imgur.com/BMu1qDX.png) Including images
 
 </div>
 
@@ -146,7 +146,7 @@ Can be any of the standard markup.
 
 Can be any of the standard markup.
 
-![ HERO Icon Yellow](https://imgur.com/zkm1vrg.png) Including images
+![right20 Right 20 Name](https://imgur.com/BMu1qDX.png) Including images
 
 </div>
 
@@ -256,7 +256,7 @@ ___
 
 ### Right Thumb (140px max height)
 
-![right-thumb right thumb name](https://i.imgur.com/yKlp7Dd.jpg) 
+![right-thumb right thumb name](https://imgur.com/IqtIFrX.png) 
 
 ---
 
@@ -268,7 +268,7 @@ ___
 
 ### Left Thumb (140px max height)
 
-![left-thumb left thumb name](https://i.imgur.com/yKlp7Dd.jpg)
+![left-thumb left thumb name](https://imgur.com/jm8aG2H.png)
 
 ---
 
@@ -280,7 +280,7 @@ ___
 
 ### Featured Image (80% Width)
 
-![featured featured name](https://i.imgur.com/EfuCREm.jpg)
+![featured featured name](https://imgur.com/eiBslTY.png)
 
 ---
 
@@ -290,9 +290,29 @@ ___
 
 ---
 
-### Left Icon (50px max width)
+### Left Icons (50px max width)
 
-![left-icon Left Icon Name](https://i.imgur.com/yKlp7Dd.jpg)
+![left-icon Left Icon Chapter 1](https://imgur.com/1Ezos9G.png)
+
+---
+
+![left-icon Left Icon Chapter 2](https://imgur.com/cknBZhQ.png)
+
+---
+
+![left-icon Left Icon Chapter 3](https://imgur.com/v2hmxF9.png)
+
+---
+
+![left-icon Left Icon Chapter 4](https://imgur.com/Zd217m5.png)
+
+---
+
+![left-icon Left Icon Chapter 5](https://imgur.com/k2xK0D2.png)
+
+---
+
+![left-icon Left Icon Chapter 6](https://imgur.com/hsIrF31.png)
 
 ---
 
@@ -302,9 +322,29 @@ ___
 
 ---
 
-### Right Icon (50px max width)
+### Right Icons (50px max width)
 
-![right-icon Right Icon Name](https://i.imgur.com/yKlp7Dd.jpg) 
+![right-icon Right Icon Chapter 7](https://imgur.com/709z3Mf.png)
+
+---
+
+![right-icon Right Icon Chapter 8](https://imgur.com/xvu8RV0.png)
+
+---
+
+![right-icon Right Icon Chapter 9](https://imgur.com/TYKkkfw.png)
+
+---
+
+![right-icon Right Icon Chapter 10](https://imgur.com/I6eMwOX.png)
+
+---
+
+![right-icon Right Icon Chapter 11](https://imgur.com/7Gukwn4.png)
+
+---
+
+![right-icon Right Icon Chapter 12](https://imgur.com/4RntXeM.png)
 
 ---
 
@@ -316,79 +356,56 @@ ___
 
 ### Center (full size)
 
-![center Center Name](https://i.imgur.com/EfuCREm.jpg)
+![center Center Name](https://imgur.com/BMu1qDX.png)
 
 ---
-
----
-
-___
 
 ---
 
 ### Left 20% Width
 
-![left20 Left 20 Name](https://i.imgur.com/yKlp7Dd.jpg)
+![left20 Left 20 Name](https://imgur.com/BMu1qDX.png)
 
 ---
 
 ---
 
-___
-
----
 
 ### Right 20% Width
 
-![right20 Right 20 Name](https://i.imgur.com/yKlp7Dd.jpg)
+![right20 Right 20 Name](https://imgur.com/BMu1qDX.png)
 
 ---
-
----
-
-___
 
 ---
 
 ### Left 40% Width
 
-![left Left 40 Name](https://i.imgur.com/3OlNU80.jpg)
+![left Left 40 Name](https://imgur.com/Srvc8c1.png)
 
 ---
-
----
-
-___
 
 ---
 
 ### Right 40% Width
 
-![right Right 40 Name](https://i.imgur.com/3OlNU80.jpg)
+![right Right 40 Name](https://imgur.com/mLZOEIj.png)
 
 ---
-
----
-
-___
 
 ---
 
 ### Left 60% Width
 
-![left60 Left 60 Name](https://i.imgur.com/mbJDuhe.jpg)
+![left60 Left 60 Name](https://imgur.com/SmdBnAz.png)
 
 ---
-
----
-
-___
 
 ---
 
 ### Right 60% Width
 
-![right60 Right 60 Name](https://i.imgur.com/mbJDuhe.jpg)
+![right60 Right 60 Name](https://imgur.com/yxUk1kw.png)
 
 ---
 
@@ -398,41 +415,56 @@ ___
 
 ```
 
-![campaign_mode Campaign Mode](https://i.imgur.com/KNf8tY6.png) Campaign Mode
+![warning_icon Sometimes surprisingly effective element](https://i.imgur.com/NZhzgzH.png) Warning Icon
+![stop_icon Campaign altering element](https://i.imgur.com/lo5nVWs.png) Stop Icon
+![superhero_icon Intended for Superheroic campaign](https://imgur.com/h64Pr2r.png) Superheroic Icon
+![hero_icon Intended for Heroic campaign](https://imgur.com/EXa2Hrl.png) Heroic Icon
 
-![cine_mode Cine Mode](https://i.imgur.com/6ROPYDe.png) Cinematic Mode
+![ HERO Icon Blue](https://imgur.com/EXa2Hrl.png) 
+![ HERO Icon Light Blue](https://imgur.com/xWFZn6M.png)
+![ HERO Icon Light Gray](https://imgur.com/6apPhJo.png) 
+![ HERO Icon Yellow](https://imgur.com/zkm1vrg.png)
 
-![failure_dice Failure Die](https://i.imgur.com/mqMd034.png) Failure Die
+![hero_dice HERO Dice 1](https://imgur.com/sH3hwil.png)
+![hero_dice HERO Dice 2](https://imgur.com/75Soj5G.png)
+![hero_dice HERO Dice 3](https://imgur.com/jIPvWzX.png)
+![hero_dice HERO Dice 4](https://imgur.com/2AaALVX.png)
+![hero_dice HERO Dice 5](https://imgur.com/PzVOG4e.png)
+![hero_dice HERO Dice 6](https://imgur.com/2jKf0BE.png)
 
-![success_dice Success Die](https://i.imgur.com/M3TVReh.png) Success Die
+![right-thumb right thumb name](https://imgur.com/IqtIFrX.png) 
 
-![Success Die](https://i.imgur.com/1lbZOpi.png) 
+![left-thumb left thumb name](https://imgur.com/jm8aG2H.png)
 
-![DeathDie](https://i.imgur.com/Ywa6FKZ.png)
+![featured featured name](https://imgur.com/zMRQgrA.png)
 
-![right-thumb right thumb name](https://i.imgur.com/EfuCREm.jpg) 
+![left-icon Left Icon Chapter 1](https://imgur.com/1Ezos9G.png)
+![left-icon Left Icon Chapter 2](https://imgur.com/cknBZhQ.png)
+![left-icon Left Icon Chapter 3](https://imgur.com/v2hmxF9.png)
+![left-icon Left Icon Chapter 4](https://imgur.com/Zd217m5.png)
+![left-icon Left Icon Chapter 5](https://imgur.com/k2xK0D2.png)
+![left-icon Left Icon Chapter 6](https://imgur.com/hsIrF31.png)
 
-![left-thumb left thumb name](https://i.imgur.com/EfuCREm.jpg)
+![right-icon Right Icon Chapter 7](https://imgur.com/709z3Mf.png)
+![right-icon Right Icon Chapter 8](https://imgur.com/xvu8RV0.png)
+![right-icon Right Icon Chapter 9](https://imgur.com/TYKkkfw.png)
+![right-icon Right Icon Chapter 10](https://imgur.com/I6eMwOX.png)
+![right-icon Right Icon Chapter 11](https://imgur.com/7Gukwn4.png)
+![right-icon Right Icon Chapter 12](https://imgur.com/4RntXeM.png)
 
-![featured featured name](https://i.imgur.com/EfuCREm.jpg)
+![center Center Name](https://imgur.com/BMu1qDX.png)
 
-![left-icon Left Icon Name](https://i.imgur.com/EfuCREm.jpg)
+![left20 Left 20 Name](https://imgur.com/BMu1qDX.png)
 
-![right-icon Right Icon Name](https://i.imgur.com/EfuCREm.jpg) 
+![right20 Right 20 Name](https://imgur.com/BMu1qDX.png)
 
-![center Center Name](https://i.imgur.com/EfuCREm.jpg)
+![left Left 40 Name](https://imgur.com/Srvc8c1.png)
 
-![left20 Left 20 Name](https://i.imgur.com/yKlp7Dd.jpg)
+![right Right 40 Name](https://imgur.com/mLZOEIj.png)
 
-![right20 Right 20 Name](https://i.imgur.com/yKlp7Dd.jpg)
+![left60 Left 60 Name](https://imgur.com/SmdBnAz.png)
 
-![left Left 40 Name](https://i.imgur.com/3OlNU80.jpg)
-
-![right Right 40 Name](https://i.imgur.com/3OlNU80.jpg)
-
-![left60 Left 60 Name](https://i.imgur.com/mbJDuhe.jpg)
-
-![right60 Right 60 Name](https://i.imgur.com/mbJDuhe.jpg)
+![right60 Right 60 Name](https://imgur.com/yxUk1kw.png)
 
 ```
 

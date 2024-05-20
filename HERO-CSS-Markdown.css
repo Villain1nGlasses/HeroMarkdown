@@ -10,21 +10,21 @@ bg {
 }
 
 p {
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	font-size: 14px;
 	margin-bottom: 8px;
 	text-indent: 10px;
 }
 
 p.first-of-type {
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	font-size: 14px !important;
 	margin-bottom: 0px;
 	text-indent: 0px!important;
 }
 
 ul {
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	font-size: 14px;
 	list-style-position: inside;
 	padding-left: 5px;
@@ -34,7 +34,7 @@ ul {
 }
 
 li {
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	font-size: 14px;
 	list-style-position: inside;
 	margin-bottom: 0px;
@@ -42,7 +42,7 @@ li {
 }
 
 ol {
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	font-size: 14px;
 	list-style-position: inside;
 	padding-left: 5px;
@@ -51,22 +51,12 @@ ol {
 }
 
 h1 {
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	background-image: linear-gradient(90deg, #99c6e0 0%, #0072B2 50%, #99c6e0 100%);
 	background-size: 100% 8px;
 	background-repeat: no-repeat;
 	background-position: center top;
 	color: #56B4E9;
-	text-shadow: 
-		-1px 1px 0 #0072B2,
-		1px 1px 0 #0072B2,
-		1px -1px 0 #0072B2,
-		-1px -1px 0 #0072B2,
-		-1px 0px 0 #0072B2,
-		1px 0px 0 #0072B2,
-		2px 0px 0 #0072B2,
-		0px -1px 0 #0072B2,
-		0px 1px 0 #0072B2;
 	max-width: 800px;
 	font-weight: 900;
 	text-transform: uppercase;
@@ -82,7 +72,7 @@ h1 {
 }
 
 h2 {
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	background-image: linear-gradient(90deg, #99c6e0 0%, #0072B2 50%, #99c6e0 100%);
 	background-size: 800px 8px;
 	background-repeat: no-repeat;
@@ -100,7 +90,7 @@ h2 {
 }
 
 h3 {
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	color: #0072B2;
 	font-weight: 900;
 	font-size: 28px;
@@ -110,7 +100,7 @@ h3 {
 }
 
 h4 {
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	background-image: linear-gradient(90deg, #99c6e0 0%, #0072B2 40%, #99c6e0 80%);
 	background-size: 800px 3px;
 	background-repeat: no-repeat;
@@ -125,7 +115,7 @@ h4 {
 }
 
 h5 {
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	color: #0072B2;
 	text-transform: uppercase;
 	font-size: 14px;
@@ -135,7 +125,7 @@ h5 {
 }
 
 h6 {
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	text-transform: uppercase;
 	font-size: 14px;
 	margin-top: 10px;
@@ -144,7 +134,7 @@ h6 {
 }
 
 blockquote {
-	font-family: OCR A Std, Lucida Console, Monaco, Courier New;
+	font-family: Lucida Console, Monaco, Courier New;
 	color: black;
 	display: block;
 	margin-left: auto;
@@ -162,14 +152,14 @@ blockquote {
 }
 
 p.blockquote {
-	font-family: OCR A Std, Lucida Console, Monaco, Courier New;
+	font-family: Lucida Console, Monaco, Courier New;
 	font-size: 13px;
 	margin-bottom: 0px;
 	text-indent: 10px;
 }
 
 code {
-	font-family: OCR A Std, Lucida Console, Monaco, Courier New;
+	font-family: Lucida Console, Monaco, Courier New;
 	color: black;
 	background: yellow;
 }
@@ -296,7 +286,7 @@ sidebar {
 }
 
 statblock {
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	padding: 5px 10px;
@@ -321,7 +311,7 @@ statblockcap {
 tr:first-child {
 	width: 100%;
 	text-align: left;
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	font-weight: bold;
 	font-size: 13px;
 	color: #0072B2;
@@ -333,7 +323,7 @@ tr:first-child {
 tr:nth-child(even) {
 	width: 100%;
 	text-align: left;
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	font-size: 13px;
 	background: white;
 }
@@ -341,7 +331,7 @@ tr:nth-child(even) {
 tr:nth-child(odd) {
 	width: 100%;
 	text-align: left;
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	font-size: 13px;
 	background: #cce8f8;
 }
@@ -350,13 +340,13 @@ tr:last-child {
 	width: 100%;
 	text-align: left;
 	background: transparent;
-	font-family: Open Sans, Museo Sans, Raleway, Tahoma, Nunito, arial;
+	font-family: Tahoma, Helvetica, arial;
 	font-size: 13px;
 	border: 3px solid #3f3f3f !important;
 }
 
 table {
-	font-family: OCR A Std, Lucida Console, Monaco, Courier New;
+	font-family: Lucida Console, Monaco, Courier New;
 	color: #292929;
 	display: block;
 	margin-left: auto;
