@@ -1,12 +1,10 @@
 [css](-Ny7WAZXjn4U1jW_CRFr)
 
 bg {
-	/* background-image: url('https://imgur.com/a/hero-markdown-background-fGR0IXW.png'); */
 	padding: 30px;
 	padding-top: 1px;
 	margin: -30px;
 	max-width: 800px;
-	/* background-color: #4c9cc9; */
 }
 
 p {
@@ -399,9 +397,9 @@ hr {
 	display:block;
 	border:0px;
 	height:64px;
-	width: 800px;
+	width: 100%;
 	align: center;
-	background-image:url('https://imgur.com/eVAYTUN.png');
+	background-image:url('https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Graphic_Bar.png');
 	background-position: center;
 	background-repeat: no-repeat;
 }
