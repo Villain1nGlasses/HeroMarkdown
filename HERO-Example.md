@@ -12,7 +12,7 @@
 
 ---
 
-![featured featured name](https://imgur.com/eiBslTY.png)
+![featured featured name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Karl_Friedrich_Schinkel.png?raw=true)
 
 ---
 
@@ -209,15 +209,15 @@ ___
 
 ## In-Line Icons to Use Within Text
 
-![warning_icon Sometimes surprisingly effective element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Warning.png) Warning Icon
+![warning_icon Sometimes surprisingly effective element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Warning.png?raw=true) Warning Icon
 
-![stop_icon Campaign altering element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/STOP.png) Stop Icon
+![stop_icon Campaign altering element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/STOP.png?raw=true) Stop Icon
 
-![superhero_icon Superheroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Bolt.png) Superheroic Icon
+![superhero_icon Superheroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Bolt.png?raw=true) Superheroic Icon
 
-![hero_icon Heroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Blue.png) Heroic Icon
+![hero_icon Heroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Blue.png?raw=true) Heroic Icon
 
-![grimoire_icon Grimoire spell icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Spell_Pentagram.png) Grimoire Icon
+![grimoire_icon Grimoire spell icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Spell_Pentagram.png?raw=true) Grimoire Icon
 
 ___
 
@@ -226,9 +226,9 @@ ___
 ## HERO Icons (full size)
 
 
-![ HERO Icon Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Blue.png) ![ HERO Icon Light Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Light_Blue.png)
+![ HERO Icon Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Blue.png?raw=true) ![ HERO Icon Light Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Light_Blue.png?raw=true)
 
-![ HERO Icon Light Gray](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Light_Gray.png) ![ HERO Icon Yellow](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Yellow.png)
+![ HERO Icon Light Gray](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Light_Gray.png?raw=true) ![ HERO Icon Yellow](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Yellow.png?raw=true)
 
 ___
 
@@ -236,7 +236,7 @@ ___
 
 ## HERO Dice Faces (quarter size)
 
-![hero_dice HERO Dice 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_1.png) ![hero_dice HERO Dice 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_2.png) ![hero_dice HERO Dice 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_3.png) ![hero_dice HERO Dice 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_4.png) ![hero_dice HERO Dice 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_5.png) ![hero_dice HERO Dice 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_6.png)
+![hero_dice HERO Dice 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_1.png?raw=true) ![hero_dice HERO Dice 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_2.png?raw=true) ![hero_dice HERO Dice 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_3.png?raw=true) ![hero_dice HERO Dice 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_4.png?raw=true) ![hero_dice HERO Dice 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_5.png?raw=true) ![hero_dice HERO Dice 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_6.png?raw=true)
 
 ___
 
@@ -244,7 +244,7 @@ ___
 
 ### Right Thumb (140px max height)
 
-![right-thumb right thumb name](https://imgur.com/IqtIFrX.png) 
+![right-thumb right thumb name](https://imgur.com/IqtIFrX.png?raw=true) 
 
 ---
 
@@ -256,7 +256,7 @@ ___
 
 ### Left Thumb (140px max height)
 
-![left-thumb left thumb name](https://imgur.com/jm8aG2H.png)
+![left-thumb left thumb name](https://imgur.com/jm8aG2H.png?raw=true)
 
 ---
 
@@ -268,7 +268,7 @@ ___
 
 ### Featured Image (80% Width)
 
-![featured featured name](https://imgur.com/eiBslTY.png)
+![featured featured name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Karl_Friedrich_Schinkel.png?raw=true)
 
 ---
 
@@ -280,27 +280,27 @@ ___
 
 ### Left Icons (50px max width)
 
-![left-icon Left Icon Chapter 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_01.png)
+![left-icon Left Icon Chapter 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_01.png?raw=true)
 
 ---
 
-![left-icon Left Icon Chapter 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_02.png)
+![left-icon Left Icon Chapter 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_02.png?raw=true)
 
 ---
 
-![left-icon Left Icon Chapter 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_03.png)
+![left-icon Left Icon Chapter 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_03.png?raw=true)
 
 ---
 
-![left-icon Left Icon Chapter 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_04.png)
+![left-icon Left Icon Chapter 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_04.png?raw=true)
 
 ---
 
-![left-icon Left Icon Chapter 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_05.png)
+![left-icon Left Icon Chapter 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_05.png?raw=true)
 
 ---
 
-![left-icon Left Icon Chapter 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_06.png)
+![left-icon Left Icon Chapter 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_06.png?raw=true)
 
 ---
 
@@ -312,27 +312,27 @@ ___
 
 ### Right Icons (50px max width)
 
-![right-icon Right Icon Chapter 7](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_07.png)
+![right-icon Right Icon Chapter 7](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_07.png?raw=true)
 
 ---
 
-![right-icon Right Icon Chapter 8](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_08.png)
+![right-icon Right Icon Chapter 8](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_08.png?raw=true)
 
 ---
 
-![right-icon Right Icon Chapter 9](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_09.png)
+![right-icon Right Icon Chapter 9](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_09.png?raw=true)
 
 ---
 
-![right-icon Right Icon Chapter 10](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_10.png)
+![right-icon Right Icon Chapter 10](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_10.png?raw=true)
 
 ---
 
-![right-icon Right Icon Chapter 11](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_11.png)
+![right-icon Right Icon Chapter 11](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_11.png?raw=true)
 
 ---
 
-![right-icon Right Icon Chapter 12](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_12.png)
+![right-icon Right Icon Chapter 12](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_12.png?raw=true)
 
 ---
 
@@ -344,7 +344,7 @@ ___
 
 ### Center (full size)
 
-![center Center Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png)
+![center Center Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png?raw=true)
 
 ---
 
@@ -352,7 +352,7 @@ ___
 
 ### Left 20% Width
 
-![left20 Left 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png)
+![left20 Left 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png?raw=true)
 
 ---
 
@@ -361,7 +361,7 @@ ___
 
 ### Right 20% Width
 
-![right20 Right 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png)
+![right20 Right 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png?raw=true)
 
 ---
 
@@ -369,7 +369,7 @@ ___
 
 ### Left 40% Width
 
-![left Left 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png)
+![left Left 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Willem_van_de_Veld_Calm_Sea.png?raw=true)
 
 ---
 
@@ -377,7 +377,7 @@ ___
 
 ### Right 40% Width
 
-![right Right 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Castle_on_the_Rhine.png)
+![right Right 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Castle_on_the_Rhine.png?raw=true)
 
 ---
 
@@ -385,7 +385,7 @@ ___
 
 ### Left 60% Width
 
-![left60 Left 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Giovanni_Maria_Quaglio.png)
+![left60 Left 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Giovanni_Maria_Quaglio.png?raw=true)
 
 ---
 
@@ -393,7 +393,7 @@ ___
 
 ### Right 60% Width
 
-![right60 Right 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Romolo_Achille_Liverani.png)
+![right60 Right 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Romolo_Achille_Liverani.png?raw=true)
 
 ---
 
