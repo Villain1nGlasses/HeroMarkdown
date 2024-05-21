@@ -315,7 +315,7 @@ tr:first-child {
 	color: #0072B2;
 	vertical-align: middle;
 	background: white;
-	border-bottom: 3px solid #3f3f3f !important;
+	border-bottom: 5px double #0072B2 !important;
 }
 
 tr:nth-child(even) {
@@ -339,7 +339,7 @@ tr:nth-child(last) {
 	text-align: left;
 	font-family: Tahoma, Helvetica, arial;
 	font-size: 13px;
-	border-bottom: 2px solid #3f3f3f !important;
+	border-bottom: 2px solid #0072B2 !important;
 }
 
 table {
@@ -398,7 +398,7 @@ hr {
 	height: 64px;
 	width: 100%;
 	align: center;
-	background-image:url('https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Graphic_Bar.png');
+	background-image:url('https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Thematic_Break.png?raw=true');
 	background-position: center;
 	background-repeat: no-repeat;
 }
