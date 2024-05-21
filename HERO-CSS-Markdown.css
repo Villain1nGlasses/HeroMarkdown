@@ -340,6 +340,7 @@ tr:nth-child(last) {
 	font-family: Tahoma, Helvetica, arial;
 	font-size: 13px;
 	border-bottom: 2px solid #0072B2 !important;
+	background: white;
 }
 
 table {
@@ -396,7 +397,7 @@ hr {
 	display: block;
 	border: 0px;
 	height: 64px;
-	width: 100%;
+	width: 50%;
 	align: center;
 	background-image:url('https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Thematic_Break.png?raw=true');
 	background-position: center;
