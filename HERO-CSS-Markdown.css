@@ -315,7 +315,7 @@ tr:first-child {
 	color: #0072B2;
 	vertical-align: middle;
 	background: white;
-	border-bottom: 2px solid #3f3f3f !important;
+	border-bottom: 3px solid #3f3f3f !important;
 }
 
 tr:nth-child(even) {
@@ -334,13 +334,12 @@ tr:nth-child(odd) {
 	background: #cce8f8;
 }
 
-tr:last-child {
+tr:nth-child(last) {
 	width: 100%;
 	text-align: left;
-	background: transparent;
 	font-family: Tahoma, Helvetica, arial;
 	font-size: 13px;
-	border: 3px solid #3f3f3f !important;
+	border-bottom: 2px solid #3f3f3f !important;
 }
 
 table {
@@ -349,7 +348,7 @@ table {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 80%;
+	width: 100%;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	padding: 5px 10px;
@@ -362,13 +361,14 @@ table {
 
 td.align-left {
 	border-collapse:collapse;
-	outline:none;
+	outline: none;
 	border: 0px !important;
 	border-spacing: 0;
 	border: 0px solid white !important;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	text-align: left;
+	color: red;
 }
 
 td.align-center {
@@ -380,6 +380,7 @@ td.align-center {
 	padding-top: 2px;
 	padding-bottom: 2px;
 	text-align: center;
+	color: blue;
 }
 
 td.align-right {
@@ -387,16 +388,17 @@ td.align-right {
 	border: none !important;
 	border-spacing: 0;
 	border: 0px solid white !important;
-	outline:none;
+	outline: none;
 	padding-top: 2px;
 	padding-bottom: 2px;
 	text-align: right;
+	color: yellowgreen;
 }
 
 hr {
-	display:block;
-	border:0px;
-	height:64px;
+	display: block;
+	border: 0px;
+	height: 64px;
 	width: 100%;
 	align: center;
 	background-image:url('https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Graphic_Bar.png');
