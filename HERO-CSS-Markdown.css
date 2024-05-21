@@ -368,7 +368,6 @@ td.align-left {
 	padding-top: 2px;
 	padding-bottom: 2px;
 	text-align: left;
-	color: red;
 }
 
 td.align-center {
@@ -380,7 +379,6 @@ td.align-center {
 	padding-top: 2px;
 	padding-bottom: 2px;
 	text-align: center;
-	color: blue;
 }
 
 td.align-right {
@@ -392,7 +390,6 @@ td.align-right {
 	padding-top: 2px;
 	padding-bottom: 2px;
 	text-align: right;
-	color: yellowgreen;
 }
 
 hr {

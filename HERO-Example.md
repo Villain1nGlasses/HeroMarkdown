@@ -84,6 +84,7 @@ ___
 |Cell A1|Cell B1|Cell B1|
 
 |Cell A2 Left Justified| Center Justified Cell B2| Right Justified Cell B2|
+|:----|:----:|----:|
 |Cell A3|Cell B3|Cell B3|
 |Cell A4|Cell B4|Cell B4|
 |Cell A5|Cell B5|Cell B5|
