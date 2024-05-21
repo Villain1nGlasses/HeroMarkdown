@@ -343,13 +343,31 @@ tr:nth-child(last) {
 	background: white;
 }
 
+tr:nth-child(last):nth-child(even) {
+	width: 100%;
+	text-align: left;
+	font-family: Tahoma, Helvetica, arial;
+	font-size: 13px;
+	border-bottom: 2px solid #0072B2 !important;
+	background: #cce8f8;
+}
+
+tr:nth-child(last):nth-child(odd) {
+	width: 100%;
+	text-align: left;
+	font-family: Tahoma, Helvetica, arial;
+	font-size: 13px;
+	border-bottom: 2px solid #0072B2 !important;
+	background: white;
+}
+
 table {
 	font-family: Lucida Console, Monaco, Courier New;
 	color: #292929;
 	display: block;
+	max-width: 90%;
 	margin-left: auto;
 	margin-right: auto;
-	width: 100%;
 	margin-top: 1em;
 	margin-bottom: 1em;
 	padding: 5px 10px;
@@ -396,10 +414,12 @@ td.align-right {
 hr {
 	display: block;
 	border: 0px;
-	height: 64px;
-	width: 50%;
+	height: 48px;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 80%;
 	align: center;
-	background-image:url('https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Thematic_Break.png?raw=true');
+	background-image: url('https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Thematic_Break.png?raw=true');
 	background-position: center;
 	background-repeat: no-repeat;
 }
