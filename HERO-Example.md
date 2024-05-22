@@ -81,13 +81,19 @@ ___
 ---
 
 
-|Cell A1|Cell B1|Cell B1|
-
-|Cell A2 Left Justified| Center Justified Cell B2| Right Justified Cell B2|
+|Cell A1 Left Justified| Center Justified Cell B1| Right Justified Cell C1|
 |:----|:----:|----:|
-|Cell A3|Cell B3|Cell B3|
-|Cell A4|Cell B4|Cell B4|
-|Cell A5|Cell B5|Cell B5|
+|Cell A2|Cell B2|Cell C2|
+|Cell A3|Cell B3|Cell C3|
+|Cell A4|Cell B4|Cell C4|
+
+```
+|Cell A1 Left Justified| Center Justified Cell B1| Right Justified Cell C1|
+|:----|:----:|----:|
+|Cell A2|Cell B2|Cell C2|
+|Cell A3|Cell B3|Cell C3|
+|Cell A4|Cell B4|Cell C4|
+```
 
 ---
 
@@ -95,17 +101,13 @@ ___
 
 1. Item # 1
 1. Item # 2   
-
 	1. Sub Item # 1 (indented four (4) spaces)        
-
 	1. Sub Item # 2 (indented four (4) spaces)
 1. Item # 3
 
 - Item
 - Item
-
 	- Sub Item (indented four (4) spaces)
-
 	- Sub Item (indented four (4) spaces)
 - Item
 
@@ -185,20 +187,19 @@ Using direct HTML
 ## Standard CSS items included in stylesheet
 
 ```
-bg, // background
-
+bg // background
 p // standard text
-
 h1, h2, h3, h4, h5, h6 // headers
-pre, // code block
-code, // inline code
+pre // code block
+code // inline code
 blockquote, p.blockquote // blockquote
-table, tbody, // table
-tr:first-child, tr:nth-child(even), tr:nth-child(odd), tr:nth-child(last), // table header/even/odd rows
+table, tbody // table
+tr:first-child, tr:nth-child(even), tr:nth-child(odd), tr:nth-child(last) // table header/even/odd rows
+tr:nth-child(last):nth-child(even), tr:nth-child(last):nth-child(odd) // table header/even/odd last rows
 td.align-left, td.align-center, td.align-right, // |:---|:----:|---:| // table alignment
-ol, ul, li.ordered, li.unordered, // ordered and unordered lists
+ol, ul, li.ordered, li.unordered // ordered and unordered lists
 
-___, ---, *** / horizontal rule
+___, ---, *** // horizontal rule
 
 ```
 
