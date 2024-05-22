@@ -111,6 +111,20 @@ ___
 	- Sub Item (indented four (4) spaces)
 - Item
 
+```
+1. Item # 1
+1. Item # 2   
+	1. Sub Item # 1 (indented four (4) spaces)        
+	1. Sub Item # 2 (indented four (4) spaces)
+1. Item # 3
+
+- Item
+- Item
+	- Sub Item (indented four (4) spaces)
+	- Sub Item (indented four (4) spaces)
+- Item
+```
+
 ---
 
 ## Floating Right Sidebar
@@ -154,6 +168,14 @@ Can be any of the standard markup.
 **Link to chat inline roll:** [Roll 1d6](`[[1d6]])
 **Link to API command:** [API Command](`!apitlinktest)
 
+```
+**Link to Handout:** [(Markdown Getting Started)]
+**Link to webpage:** [Journal Command Buttons](https://wiki.roll20.net/Journal#Journal_Command_Buttons)
+**Link to chat roll:** [Dagger Attack](`/roll 1d20+2 vs AC /roll 1d4 Damage )
+**Link to chat inline roll:** [Roll 1d6](`[[1d6]])
+**Link to API command:** [API Command](`!apitlinktest)
+```
+
 ---
 
 ## Font Styles
@@ -166,6 +188,16 @@ Can be any of the standard markup.
 ***italic and bold***
 
 ~~strike~~
+
+```
+*italic*
+
+**bold**
+
+***italic and bold***
+
+~~strike~~
+```
 
 ---
 <div style="text-align: center">
