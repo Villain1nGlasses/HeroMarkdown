@@ -179,55 +179,64 @@ a {
 
 left {
 	float: left;
-	margin-right: 6px;
 	margin-top: 2px;
-	margin-bottom: 2px;
+	margin-bottom: 12px;
+	margin-right: 15px;
 	max-width: 40%;
 }
 
 right {
 	float: right;
-	margin-left: 6px;
 	margin-top: 2px;
-	margin-bottom: 2px;
+	margin-bottom: 12px;
+	margin-left: 15px;
 	max-width: 40%;
 }
 
 left60 {
 	float: left;
-	margin-right: 6px;
+	margin-right: 3px;
 	margin-top: 2px;
-	margin-bottom: 2px;
+	margin-bottom: 8px;
+	margin-right: 15px;
 	max-width: 60%;
 }
 
 right60 {
 	float: right;
-	margin-left: 6px;
 	margin-top: 2px;
-	margin-bottom: 2px;
+	margin-bottom: 12px;
+	margin-left: 15px;
 	max-width: 60%;
 }
 
 right20 {
 	float: right;
-	margin-left: 6px;
 	margin-top: 2px;
-	margin-bottom: 2px;
+	margin-bottom: 12px;
+	margin-left: 15px;
 	max-width: 20%;
 }
 
 left20 {
 	float: left;
-	margin-left: 6px;
 	margin-top: 2px;
 	margin-bottom: 2px;
+	margin-right: 15px;
 	max-width: 20%;
 }
 
 left-thumb {
 	float: left;
-	margin-right: 6px;
+	margin-right: 12px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	max-height: 140px;
+}
+
+right-thumb {
+	float: right;
+	margin-left: 12px;
 	margin-top: 2px;
 	margin-bottom: 2px;
 	max-height: 140px;
@@ -247,14 +256,6 @@ right-icon {
 	margin-top: 2px;
 	margin-bottom: 2px;
 	max-width: 50px;
-}
-
-right-thumb {
-	float: right;
-	margin-left: 6px;
-	margin-top: 2px;
-	margin-bottom: 2px;
-	max-height: 140px;
 }
 
 center {
@@ -443,5 +444,5 @@ warning_icon {width: 16px; height: 16px;}
 stop_icon {width: 16px; height: 16px;}
 superhero_icon {width: 16px; height: 16px;} 
 hero_icon {width: 16px; height: 16px;}
-grimoire_icon {width: 32px; height: 32px;}
+grimoire_icon {width: 16px; height: 16px;}
 hero_dice {width: 64px; height: 64px;}
