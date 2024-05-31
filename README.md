@@ -13,6 +13,7 @@ Install the three API scripts to the game you wish to use them with:
 - markdownDocumentation.js https://gist.github.com/BaldarSilveraxe/5a1db1db88890ff2de0b94b57557f8c3
 
 Installing API scripts on Roll20 is beyond the scope of this documentation, please visit https://help.roll20.net/hc/en-us/articles/360037256714-API#API-HowdoIinstallanAPIscriptifIwanttowritemyowncodeorIwanttousecodefromanexternalsource?.
+
 The original thread by Stephen S. concerning the Markdown mod can be found here: https://app.roll20.net/forum/post/8028597/script-markdown-handouts-and-bios/?pagenum=1.
 
 ## Part 2 - Using the Markdown in a Roll20 Game
