@@ -161,7 +161,6 @@ Can be any of the standard markup.
 
 ## Links and Other Formatting
 
-
 **Link to Handout:** [(Markdown Getting Started)]
 **Link to webpage:** [Journal Command Buttons](https://wiki.roll20.net/Journal#Journal_Command_Buttons)
 **Link to chat roll:** [Attack Roll](`/roll 11-3d6+5 vs DCV)
@@ -171,7 +170,7 @@ Can be any of the standard markup.
 ```
 **Link to Handout:** [(Markdown Getting Started)]
 **Link to webpage:** [Journal Command Buttons](https://wiki.roll20.net/Journal#Journal_Command_Buttons)
-**Link to chat roll:** [Dagger Attack](`/roll 1d20+2 vs AC /roll 1d4 Damage )
+**Link to chat roll:** [Attack Roll](`/roll 11-3d6+5 vs DCV)
 **Link to chat inline roll:** [Roll 1d6](`[[1d6]])
 **Link to API command:** [API Command](`!apitlinktest)
 ```
