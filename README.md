@@ -6,13 +6,14 @@ Style specification for BaldarSilveraxe's (AKA Stephen S.) Roll20 markdown scrip
 ## Part 1 - Install the API Scripts on Roll20
 You will need to either have an existing game on Roll20, or create a new game.
 
-Visit this link https://app.roll20.net/forum/post/8028597/script-markdown-handouts-and-bios/?pagenum=1 and install the three API scripts to the game you wish to use them with:
+Install the three API scripts to the game you wish to use them with:
 <!-- - markdown.js https://gist.github.com/BaldarSilveraxe/0eaaf6fafe8cef89c73fb89c6f37d563 -->
 - markdown.js https://gist.github.com/Villain1nGlasses/cc5ed309d95d1230d786aeb3ca35f476 (Please use my version, which has fixes for tables.)
 - markdownNotesBio.js https://gist.github.com/BaldarSilveraxe/1002a65dd6e2613c8d38edc1f6005990
 - markdownDocumentation.js https://gist.github.com/BaldarSilveraxe/5a1db1db88890ff2de0b94b57557f8c3
 
-Installing API scripts on Roll20 is beyond the scope of this documentation, please visit https://help.roll20.net/hc/en-us/articles/360037256714-API#API-HowdoIinstallanAPIscriptifIwanttowritemyowncodeorIwanttousecodefromanexternalsource?
+Installing API scripts on Roll20 is beyond the scope of this documentation, please visit https://help.roll20.net/hc/en-us/articles/360037256714-API#API-HowdoIinstallanAPIscriptifIwanttowritemyowncodeorIwanttousecodefromanexternalsource?.
+The original thread by Stephen S. concerning the Markdown mod can be found here: https://app.roll20.net/forum/post/8028597/script-markdown-handouts-and-bios/?pagenum=1.
 
 ## Part 2 - Using the Markdown in a Roll20 Game
 Once you have installed the API scripts, launch the game on Roll20. Follow the steps below to start using the markdown styling in-game.
