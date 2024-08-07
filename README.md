@@ -46,7 +46,7 @@ Create a new **"Handout"** named **"Markdown Handout"** and in the **"GM Notes"*
 # This Heading should be red.
 ```
 (You should ***paste*** in what you *copied to the clipboard* to the second line.)
-> **NOTE:** The "-LxpMeYSNUYwZIVXxguT"` part is the object id for your handout. It will not be the same as you see in this example.
+> **Remember:** The "-O3fF3GCNgPDgG9m9-4L"` part is the object id for your handout. It will not be the same as you see in this example.
 > 
 **Save changes.**
 
@@ -71,7 +71,7 @@ h1 {color: red;}
 **Save changes.**
 In the **"Description & Notes"** section you should see the processed **CSS**
 ```
-[css](-LxpMeYSNUYwZIVXxguT) <-- will not be this code, was replaced earlier.
+[css](-O3fF3GCNgPDgG9m9-4L) <-- will not be this code, was replaced earlier.
 
 bg {
 	padding: 30px;
@@ -83,7 +83,7 @@ bg {
 etc.
 ```
 
-Now, open the HERO Example Markdown file (https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-Example.md) and copy/paste everything to the **"GM Notes"** section of the **"Markdown Handout"** **"Handout"** below the two lines that read:
+Now, open the [HERO Example Markdown file](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-Example.md) and copy/paste everything to the **"GM Notes"** section of the **"Markdown Handout"** **"Handout"** below the two lines that read:
 ```
 [md]
 [css](-LxpMeYSNUYwZIVXxguT) <-- will not be this code, was replaced earlier
