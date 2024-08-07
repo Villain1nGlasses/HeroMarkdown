@@ -63,14 +63,14 @@ Like so:
 ### B. Switching to HERO System Styling
 If all has worked correctly in the previous steps, do the following.
 
-Open the [HERO-CSS-Markdown file](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-CSS-Markdown.css). At the top of the page replace object id displayed
+Open the [HERO-CSS-Markdown file](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-CSS-Markdown.css). At the top of the page replace the object id below
 ```
 [css](-O3fF3GCNgPDgG9m9-4L)
 ```
 
 with your updated object id.
 
-Now copy/paste everything to the **"GM Notes"** section of the  **"Style Sheet"** **"Handout"**. **Delete** or overwrite the text that reads:
+Now copy/paste everything in *HERO-CSS-Markdown.css* to the **"GM Notes"** section of the  **"Style Sheet"** **"Handout"**. **Delete** or overwrite the text that reads:
 ```
 [css]
 h1 {color: red;}
@@ -91,32 +91,37 @@ bg {
 etc.
 ```
 
-Now, open the [HERO Example Markdown file](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-Example.md) and copy/paste everything to the **"GM Notes"** section of the **"Markdown Handout"** **"Handout"** below the two lines that read:
+Now, open the [HERO Example Markdown file](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-Example.md). At the top of the page replace the object id below
+```
+[css](-O3fF3GCNgPDgG9m9-4L)
+```
+
+with your updated object id.
+
+Now copy/paste everything in *HERO-Example.md* to the **"GM Notes"** section of the **"Handout"**  **"Markdown Handout"**. **Delete** or overwrite the text that reads:
+
 ```
 [md]
-[css](-LxpMeYSNUYwZIVXxguT) <-- will not be this code, was replaced earlier
-```
-**Delete** or overwrite the line that reads:
-```
+[css](-O3fF3GCNgPDgG9m9-4L)
 # This Heading should be red.
 ```
 
 **Save changes.**
 
-In the **"Description & Notes"** section you should see the processed **Markdown** with a starry background, white text, and and Alien image.
+In the **"Description & Notes"** section you should see the processed **Markdown** like the image shown below.
 <br>
 <br>
 ---
 <br>
 <br>
 
-For reference, the original scripts can be found here:
-- markdown.js https://gist.github.com/BaldarSilveraxe/0eaaf6fafe8cef89c73fb89c6f37d563
-- markdownNotesBio.js https://gist.github.com/BaldarSilveraxe/1002a65dd6e2613c8d38edc1f6005990
-- markdownDocumentation.js https://gist.github.com/BaldarSilveraxe/5a1db1db88890ff2de0b94b57557f8c3
-
 # Example Handout in Roll20
 
 ![Overview of Markdown Available in Roll20](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-Example.png)
+
+For reference, the original scripts can be found here:
+- [markdown.js](https://gist.github.com/BaldarSilveraxe/0eaaf6fafe8cef89c73fb89c6f37d563)
+- [markdownNotesBio.js](https://gist.github.com/BaldarSilveraxe/1002a65dd6e2613c8d38edc1f6005990)
+- [markdownDocumentation.js](https://gist.github.com/BaldarSilveraxe/5a1db1db88890ff2de0b94b57557f8c3)
 
 
