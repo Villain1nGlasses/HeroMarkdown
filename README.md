@@ -91,7 +91,7 @@ bg {
 etc.
 ```
 
-Now, open the [HERO Example Markdown file](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-Example.md). At the top of the page replace the object id below
+Now open the [HERO Example Markdown file](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-Example.md). At the top of the page find and replace the object id below
 ```
 [css](-O3fF3GCNgPDgG9m9-4L)
 ```
@@ -108,7 +108,7 @@ Now copy/paste everything in *HERO-Example.md* to the **"GM Notes"** section of 
 
 **Save changes.**
 
-In the **"Description & Notes"** section you should see the processed **Markdown** like the image shown below.
+In the **"Description & Notes"** section you should see the processed **Markdown** with its content like the image shown below.
 
 # Example Handout in Roll20
 
