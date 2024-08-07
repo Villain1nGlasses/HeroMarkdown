@@ -51,7 +51,7 @@ It should be large red text reading:
 This Heading should be red.
 ```
 Like so:
-![Markdown Handout](/HeroMarkdown/images/markdown_handout_example.png?raw=true)
+![Markdown Handout](/images/markdown_handout_example.png?raw=true)
 
 ### B. Switching to HERO System Styling
 If all has worked correctly in the previous steps, do the following.
