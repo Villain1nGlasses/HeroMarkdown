@@ -63,12 +63,20 @@ Like so:
 ### B. Switching to HERO System Styling
 If all has worked correctly in the previous steps, do the following.
 
-Open the [HERO-CSS-Markdown file](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-CSS-Markdown.css) and copy/paste everything to the **"GM Notes"** section of the  **"Style Sheet"** **"Handout"**. **Delete** or overwrite the text that reads:
+Open the [HERO-CSS-Markdown file](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-CSS-Markdown.css). At the top of the page replace object id displayed
+```
+[css](-O3fF3GCNgPDgG9m9-4L)
+```
+
+with your updated object id.
+
+Now copy/paste everything to the **"GM Notes"** section of the  **"Style Sheet"** **"Handout"**. **Delete** or overwrite the text that reads:
 ```
 [css]
 h1 {color: red;}
 ```
 **Save changes.**
+
 In the **"Description & Notes"** section you should see the processed **CSS**
 ```
 [css](-O3fF3GCNgPDgG9m9-4L) <-- will not be this code, was replaced earlier.
