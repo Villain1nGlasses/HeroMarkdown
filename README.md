@@ -109,11 +109,6 @@ Now copy/paste everything in *HERO-Example.md* to the **"GM Notes"** section of 
 **Save changes.**
 
 In the **"Description & Notes"** section you should see the processed **Markdown** like the image shown below.
-<br>
-<br>
----
-<br>
-<br>
 
 # Example Handout in Roll20
 
