@@ -12,7 +12,7 @@
 
 ---
 
-![featured featured name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Karl_Friedrich_Schinkel.png?raw=true)
+![featured featured name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Karl_Friedrich_Schinkel.png?raw=true)
 
 ---
 
@@ -137,7 +137,7 @@ Use the below code directly in your markup to make a floating right sidebar.
 
 Can be any of the standard markup.
 
-![right20 Right 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png?raw=true) Including images
+![right20 Right 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Rossetti_Joan_of_Arc.png?raw=true) Including images
 
 </div>
 
@@ -149,7 +149,7 @@ Can be any of the standard markup.
 
 Can be any of the standard markup.
 
-![right20 Right 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png?raw=true) Including images
+![right20 Right 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Rossetti_Joan_of_Arc.png?raw=true) Including images
 
 </div>
 
@@ -242,15 +242,15 @@ ___
 
 ## In-Line Icons to Use Within Text
 
-![warning_icon Sometimes surprisingly effective element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Warning.png?raw=true) **Warning Icon** Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+![warning_icon Sometimes surprisingly effective element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Warning.png?raw=true) **Warning Icon** Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
-![stop_icon Campaign altering element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/STOP.png?raw=true) **Stop Icon** Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![stop_icon Campaign altering element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/STOP.png?raw=true) **Stop Icon** Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
-![superhero_icon Superheroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Bolt.png?raw=true) **Superheroic Icon** Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+![superhero_icon Superheroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Bolt.png?raw=true) **Superheroic Icon** Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
-![hero_icon Heroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Blue.png?raw=true) **Heroic Icon** Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![hero_icon Heroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Blue.png?raw=true) **Heroic Icon** Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
-![grimoire_icon Grimoire spell icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Spell_Pentagram.png?raw=true) **Grimoire Icon** Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+![grimoire_icon Grimoire spell icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Spell_Pentagram.png?raw=true) **Grimoire Icon** Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
 
 ___
 
@@ -259,9 +259,9 @@ ___
 ## HERO Icons (full size)
 
 
-![ HERO Icon Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Blue.png?raw=true) ![ HERO Icon Light Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Light_Blue.png?raw=true)
+![ HERO Icon Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Blue.png?raw=true) ![ HERO Icon Light Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Light_Blue.png?raw=true)
 
-![ HERO Icon Light Gray](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Light_Gray.png?raw=true) ![ HERO Icon Yellow](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Yellow.png?raw=true)
+![ HERO Icon Light Gray](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Light_Gray.png?raw=true) ![ HERO Icon Yellow](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Yellow.png?raw=true)
 
 ___
 
@@ -269,7 +269,7 @@ ___
 
 ## HERO Dice Faces (quarter size)
 
-![hero_dice HERO Dice 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_1.png?raw=true) ![hero_dice HERO Dice 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_2.png?raw=true) ![hero_dice HERO Dice 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_3.png?raw=true) ![hero_dice HERO Dice 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_4.png?raw=true) ![hero_dice HERO Dice 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_5.png?raw=true) ![hero_dice HERO Dice 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_6.png?raw=true)
+![hero_dice HERO Dice 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Dice_Face_1.png?raw=true) ![hero_dice HERO Dice 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Dice_Face_2.png?raw=true) ![hero_dice HERO Dice 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Dice_Face_3.png?raw=true) ![hero_dice HERO Dice 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Dice_Face_4.png?raw=true) ![hero_dice HERO Dice 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Dice_Face_5.png?raw=true) ![hero_dice HERO Dice 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Dice_Face_6.png?raw=true)
 
 ___
 
@@ -277,7 +277,7 @@ ___
 
 ### Right Thumb (140px max height)
 
-![right-thumb right thumb name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Hero_System_Sixth_Edition_Blue.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![right-thumb right thumb name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Hero_System_Sixth_Edition_Blue.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 ---
 
@@ -289,7 +289,7 @@ ___
 
 ### Left Thumb (140px max height)
 
-![left-thumb left thumb name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Hero_System_Sixth_Edition_Color.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![left-thumb left thumb name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Hero_System_Sixth_Edition_Color.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 ---
 
@@ -301,7 +301,7 @@ ___
 
 ### Featured Image (80% Width)
 
-![featured featured name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Karl_Friedrich_Schinkel.png?raw=true)
+![featured featured name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Karl_Friedrich_Schinkel.png?raw=true)
 
 ---
 
@@ -313,11 +313,11 @@ ___
 
 ### Left Icons (50px max width)
 
-![left-icon Left Icon Chapter 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_01.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![left-icon Left Icon Chapter 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_01.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 ---
 
-![left-icon Left Icon Chapter 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_02.png?raw=true) ![left-icon Left Icon Chapter 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_03.png?raw=true) ![left-icon Left Icon Chapter 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_04.png?raw=true) ![left-icon Left Icon Chapter 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_05.png?raw=true) ![left-icon Left Icon Chapter 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_06.png?raw=true)
+![left-icon Left Icon Chapter 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_02.png?raw=true) ![left-icon Left Icon Chapter 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_03.png?raw=true) ![left-icon Left Icon Chapter 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_04.png?raw=true) ![left-icon Left Icon Chapter 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_05.png?raw=true) ![left-icon Left Icon Chapter 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_06.png?raw=true)
 
 ---
 
@@ -329,11 +329,11 @@ ___
 
 ### Right Icons (50px max width)
 
-![right-icon Right Icon Chapter 7](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_07.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![right-icon Right Icon Chapter 7](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_07.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 ---
 
-![right-icon Right Icon Chapter 8](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_08.png?raw=true) ![right-icon Right Icon Chapter 9](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_09.png?raw=true) ![right-icon Right Icon Chapter 10](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_10.png?raw=true) ![right-icon Right Icon Chapter 11](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_11.png?raw=true) ![right-icon Right Icon Chapter 12](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_12.png?raw=true)
+![right-icon Right Icon Chapter 8](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_08.png?raw=true) ![right-icon Right Icon Chapter 9](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_09.png?raw=true) ![right-icon Right Icon Chapter 10](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_10.png?raw=true) ![right-icon Right Icon Chapter 11](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_11.png?raw=true) ![right-icon Right Icon Chapter 12](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_12.png?raw=true)
 
 ---
 
@@ -345,7 +345,7 @@ ___
 
 ### Center (full size)
 
-![center Center Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png?raw=true)
+![center Center Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Rossetti_Joan_of_Arc.png?raw=true)
 
 ---
 
@@ -353,7 +353,7 @@ ___
 
 ### Left 20% Width
 
-![left20 Left 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![left20 Left 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Rossetti_Joan_of_Arc.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 ---
 
@@ -362,7 +362,7 @@ ___
 
 ### Right 20% Width
 
-![right20 Right 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![right20 Right 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Rossetti_Joan_of_Arc.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 ---
 
@@ -370,7 +370,7 @@ ___
 
 ### Left 40% Width
 
-![left Left 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Willem_van_de_Veld_Calm_Sea.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![left Left 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Willem_van_de_Veld_Calm_Sea.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 ---
 
@@ -378,7 +378,7 @@ ___
 
 ### Right 40% Width
 
-![right Right 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Castle_on_the_Rhine.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![right Right 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Castle_on_the_Rhine.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 ---
 
@@ -386,7 +386,7 @@ ___
 
 ### Left 60% Width
 
-![left60 Left 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Giovanni_Maria_Quaglio.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![left60 Left 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Giovanni_Maria_Quaglio.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 ---
 
@@ -394,7 +394,7 @@ ___
 
 ### Right 60% Width
 
-![right60 Right 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Romolo_Achille_Liverani.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+![right60 Right 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Romolo_Achille_Liverani.png?raw=true) Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 ---
 
@@ -404,88 +404,88 @@ ___
 
 ```
 
-![warning_icon Sometimes surprisingly effective element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Warning.png?raw=true)
+![warning_icon Sometimes surprisingly effective element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Warning.png?raw=true)
 
-![stop_icon Campaign altering element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/STOP.png?raw=true)
+![stop_icon Campaign altering element](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/STOP.png?raw=true)
 
-![superhero_icon Superheroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Bolt.png?raw=true)
+![superhero_icon Superheroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Bolt.png?raw=true)
 
-![hero_icon Heroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Blue.png?raw=true)
+![hero_icon Heroic campaign icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Blue.png?raw=true)
 
-![grimoire_icon Grimoire spell icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Spell_Pentagram.png?raw=true)
-
----
-
----
-
-![ HERO Icon Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Blue.png?raw=true) 
-
-![ HERO Icon Light Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Light_Blue.png?raw=true)
-
-![ HERO Icon Light Gray](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Light_Gray.png?raw=true) 
-
-![ HERO Icon Yellow](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Yellow.png?raw=true)
+![grimoire_icon Grimoire spell icon](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Spell_Pentagram.png?raw=true)
 
 ---
 
 ---
 
-![hero_dice HERO Dice 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_1.png?raw=true) 
-![hero_dice HERO Dice 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_2.png?raw=true) 
-![hero_dice HERO Dice 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_3.png?raw=true) 
-![hero_dice HERO Dice 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_4.png?raw=true) 
-![hero_dice HERO Dice 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_5.png?raw=true) 
-![hero_dice HERO Dice 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Dice_Face_6.png?raw=true)
+![ HERO Icon Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Blue.png?raw=true) 
+
+![ HERO Icon Light Blue](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Light_Blue.png?raw=true)
+
+![ HERO Icon Light Gray](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Light_Gray.png?raw=true) 
+
+![ HERO Icon Yellow](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Yellow.png?raw=true)
 
 ---
 
 ---
 
-![right-thumb right thumb name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Hero_System_Sixth_Edition_Blue.png?raw=true) 
-
-![left-thumb left thumb name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Hero_System_Sixth_Edition_Color.png?raw=true)
-
-![featured featured name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Karl_Friedrich_Schinkel.png?raw=true)
-
----
-
----
-
-![left-icon Left Icon Chapter 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_01.png?raw=true)
-![left-icon Left Icon Chapter 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_02.png?raw=true)
-![left-icon Left Icon Chapter 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_03.png?raw=true)
-![left-icon Left Icon Chapter 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_04.png?raw=true)
-![left-icon Left Icon Chapter 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_05.png?raw=true)
-![left-icon Left Icon Chapter 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_06.png?raw=true)
+![hero_dice HERO Dice 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Dice_Face_1.png?raw=true) 
+![hero_dice HERO Dice 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Dice_Face_2.png?raw=true) 
+![hero_dice HERO Dice 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Dice_Face_3.png?raw=true) 
+![hero_dice HERO Dice 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Dice_Face_4.png?raw=true) 
+![hero_dice HERO Dice 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Dice_Face_5.png?raw=true) 
+![hero_dice HERO Dice 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Dice_Face_6.png?raw=true)
 
 ---
 
 ---
 
-![right-icon Right Icon Chapter 7](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_07.png?raw=true)
-![right-icon Right Icon Chapter 8](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_08.png?raw=true)
-![right-icon Right Icon Chapter 9](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_09.png?raw=true)
-![right-icon Right Icon Chapter 10](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_10.png?raw=true)
-![right-icon Right Icon Chapter 11](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_11.png?raw=true)
-![right-icon Right Icon Chapter 12](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/HERO_Chapter_Hexagon_12.png?raw=true)
+![right-thumb right thumb name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Hero_System_Sixth_Edition_Blue.png?raw=true) 
+
+![left-thumb left thumb name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Hero_System_Sixth_Edition_Color.png?raw=true)
+
+![featured featured name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Karl_Friedrich_Schinkel.png?raw=true)
 
 ---
 
 ---
 
-![center Center Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png?raw=true)
+![left-icon Left Icon Chapter 1](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_01.png?raw=true)
+![left-icon Left Icon Chapter 2](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_02.png?raw=true)
+![left-icon Left Icon Chapter 3](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_03.png?raw=true)
+![left-icon Left Icon Chapter 4](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_04.png?raw=true)
+![left-icon Left Icon Chapter 5](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_05.png?raw=true)
+![left-icon Left Icon Chapter 6](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_06.png?raw=true)
 
-![left20 Left 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png?raw=true)
+---
 
-![right20 Right 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Rossetti_Joan_of_Arc.png?raw=true)
+---
 
-![left Left 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Willem_van_de_Veld_Calm_Sea.png?raw=true)
+![right-icon Right Icon Chapter 7](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_07.png?raw=true)
+![right-icon Right Icon Chapter 8](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_08.png?raw=true)
+![right-icon Right Icon Chapter 9](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_09.png?raw=true)
+![right-icon Right Icon Chapter 10](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_10.png?raw=true)
+![right-icon Right Icon Chapter 11](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_11.png?raw=true)
+![right-icon Right Icon Chapter 12](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/HERO_Chapter_Hexagon_12.png?raw=true)
 
-![right Right 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Castle_on_the_Rhine.png?raw=true)
+---
 
-![left60 Left 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Giovanni_Maria_Quaglio.png?raw=true)
+---
 
-![right60 Right 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/graphics/Romolo_Achille_Liverani.png?raw=true)
+![center Center Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Rossetti_Joan_of_Arc.png?raw=true)
+
+![left20 Left 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Rossetti_Joan_of_Arc.png?raw=true)
+
+![right20 Right 20 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Rossetti_Joan_of_Arc.png?raw=true)
+
+![left Left 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Willem_van_de_Veld_Calm_Sea.png?raw=true)
+
+![right Right 40 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Castle_on_the_Rhine.png?raw=true)
+
+![left60 Left 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Giovanni_Maria_Quaglio.png?raw=true)
+
+![right60 Right 60 Name](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/images/Romolo_Achille_Liverani.png?raw=true)
 
 ```
 

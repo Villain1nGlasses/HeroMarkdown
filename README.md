@@ -19,7 +19,7 @@ For further documentation on installing mods, please visit the [Roll20 Mod (API)
 Once you have installed the API scripts, launch the game in Roll20. To prepare a handout for application of markdown code, follow the steps below.
 
 ### A. Getting Started
-Create a new **"Handout"** named **"Style Sheet"** and place it in **"GM Notes"** (**Handouts** also works):
+Create a new **"Handout"** named **"Style Sheet"**. Scroll down to the **"GM Notes"** section and past the following two lines:
 ```
 [css]
 h1 {color: red;}
@@ -31,9 +31,9 @@ In the **"Description & Notes"** section you should see the processed **CSS**
 h1 {color: red;}
 ```
 > **NOTE:** The "-LxpMeYSNUYwZIVXxguT"` part is the object id for your handout. It will not be the same as you see in this example.
-That is the "link" for this style sheet. ***Copy*** *it to the clipboard.*
+That is the "link" for this style sheet. ***Copy*** *the css line with code to the clipboard.*
 
-Create a new **"Handout"** named **"Markdown Handout"** and in the **"GM Notes"** place (the default **Handouts** folder works as well):
+Create a new **"Handout"** named **"Markdown Handout"** and in the **"GM Notes"** paste the copied code. Add two additional lines of code like so:
 ```
 [md]
 [css](-LxpMeYSNUYwZIVXxguT)
@@ -50,7 +50,8 @@ It should be large red text reading:
 ```
 This Heading should be red.
 ```
-
+Like so:
+![Markdown Handout](/HeroMarkdown/images/markdown_handout_example.png)
 
 ### B. Switching to HERO System Styling
 If all has worked correctly in the previous steps, do the following.
