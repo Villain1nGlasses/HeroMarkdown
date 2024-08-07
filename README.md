@@ -1,5 +1,7 @@
 # HeroMarkdown
-Style specification for BaldarSilveraxe's (AKA Stephen S.) Roll20 [markdown scripts](https://gist.github.com/BaldarSilveraxe/) and with a HERO example modeled after Slugnet's excellent example for [Alien RPG](https://github.com/slugnet/roll20/tree/main/AlienRPGMarkdown). The [Roll20 forum thread](https://app.roll20.net/forum/post/8028597/script-markdown-handouts-and-bios/?pageforid=8028597#post-8028597) may also be of interest.
+HERO System Style specification for BaldarSilveraxe's (AKA Stephen S.) Roll20 [markdown scripts](https://gist.github.com/BaldarSilveraxe/). Modeled after Slugnet's excellent example for [Alien RPG](https://github.com/slugnet/roll20/tree/main/AlienRPGMarkdown). 
+
+The [Roll20 forum thread](https://app.roll20.net/forum/post/8028597/script-markdown-handouts-and-bios/?pageforid=8028597#post-8028597) may also be of interest.
 
 # Quickstart Using the HERO System CSS and Markdown in Roll20
 
