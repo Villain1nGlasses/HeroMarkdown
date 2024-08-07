@@ -13,7 +13,7 @@ Install the three mods (aka API scripts) into your game:
 - [markdownNotesBio.js](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/markdownNotesBio.js)
 - [markdownDocumentation.js](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/markdownDocumentation.js)
 
-For further documentation on installing mods, please visit this [help page](https://help.roll20.net/hc/en-us/articles/360037256714-API#API-HowdoIinstallanAPIscriptifIwanttowritemyowncodeorIwanttousecodefromanexternalsource?).
+For further documentation on installing mods, please visit the [Roll20 Mod (API) help page](https://help.roll20.net/hc/en-us/articles/360037256714-Roll20-Mods-API).
 
 ## Part 2 - Using the Markdown in a Roll20 Game
 Once you have installed the API scripts, launch the game in Roll20. To prepare a handout for application of markdown code, follow the steps below.
@@ -55,7 +55,7 @@ This Heading should be red.
 ### B. Switching to HERO System Styling
 If all has worked correctly in the previous steps, do the following.
 
-Open the HERO-CSS-Markdown file (https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-CSS-Markdown.css) and copy/paste everything to the **"GM Notes"** section of the  **"Style Sheet"** **"Handout"**. **Delete** or overwrite the text that reads:
+Open the [HERO-CSS-Markdown file](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-CSS-Markdown.css) and copy/paste everything to the **"GM Notes"** section of the  **"Style Sheet"** **"Handout"**. **Delete** or overwrite the text that reads:
 ```
 [css]
 h1 {color: red;}
