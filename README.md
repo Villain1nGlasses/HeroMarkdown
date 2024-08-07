@@ -1,5 +1,5 @@
 # HeroMarkdown
-Style specification for BaldarSilveraxe's (AKA Stephen S.) Roll20 markdown scripts and Slugnet's excellent example for Alien RPG.
+Style specification for BaldarSilveraxe's (AKA Stephen S.) Roll20 markdown scripts and with a HERO example modeled after Slugnet's excellent example for Alien RPG.
 
 # Quickstart Using the HERO System CSS and Markdown in Roll20
 
@@ -34,7 +34,7 @@ h1 {color: red;}
 > **NOTE:** The "-LxpMeYSNUYwZIVXxguT"` part is the object id for your handout. It will not be the same as you see in this example.
 That is the "link" for this style sheet. ***Copy*** *it to the clipboard.*
 
-Create a new **"Handout"** named **"Markdown Handout"** and in the **"GM Notes"** place:
+Create a new **"Handout"** named **"Markdown Handout"** and in the **"GM Notes"** place (the default **Handouts** folder works as well):
 ```
 [md]
 [css](-LxpMeYSNUYwZIVXxguT)
