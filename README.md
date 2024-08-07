@@ -1,5 +1,5 @@
 # HeroMarkdown
-Style specification for BaldarSilveraxe's (AKA Stephen S.) Roll20 markdown scripts and with a HERO example modeled after Slugnet's excellent example for Alien RPG.
+Style specification for BaldarSilveraxe's (AKA Stephen S.) Roll20 [markdown scripts](https://gist.github.com/BaldarSilveraxe/) and with a HERO example modeled after Slugnet's excellent example for [Alien RPG](https://github.com/slugnet/roll20/tree/main/AlienRPGMarkdown). The [Roll20 forum thread](https://app.roll20.net/forum/post/8028597/script-markdown-handouts-and-bios/?pageforid=8028597#post-8028597) may also be of interest.
 
 # Quickstart Using the HERO System CSS and Markdown in Roll20
 
@@ -7,10 +7,9 @@ Style specification for BaldarSilveraxe's (AKA Stephen S.) Roll20 markdown scrip
 You will need to either have an existing game on Roll20, or create a new game.
 
 Install the three API scripts to the game you wish to use them with:
-<!-- - markdown.js https://gist.github.com/BaldarSilveraxe/0eaaf6fafe8cef89c73fb89c6f37d563 -->
-- markdown.js https://gist.github.com/Villain1nGlasses/cc5ed309d95d1230d786aeb3ca35f476 (Please use my version, which has fixes for tables.)
-- markdownNotesBio.js https://gist.github.com/BaldarSilveraxe/1002a65dd6e2613c8d38edc1f6005990
-- markdownDocumentation.js https://gist.github.com/BaldarSilveraxe/5a1db1db88890ff2de0b94b57557f8c3
+- [markdown.js](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/markdown.js)
+- [markdownNotesBio.js](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/markdownNotesBio.js)
+- [markdownDocumentation.js](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/markdownDocumentation.js)
 
 Installing API scripts on Roll20 is beyond the scope of this documentation, please visit https://help.roll20.net/hc/en-us/articles/360037256714-API#API-HowdoIinstallanAPIscriptifIwanttowritemyowncodeorIwanttousecodefromanexternalsource?.
 
@@ -95,8 +94,13 @@ In the **"Description & Notes"** section you should see the processed **Markdown
 <br>
 <br>
 
+For reference, the original versions can be found here:
+- markdown.js https://gist.github.com/BaldarSilveraxe/0eaaf6fafe8cef89c73fb89c6f37d563
+- markdownNotesBio.js https://gist.github.com/BaldarSilveraxe/1002a65dd6e2613c8d38edc1f6005990
+- markdownDocumentation.js https://gist.github.com/BaldarSilveraxe/5a1db1db88890ff2de0b94b57557f8c3
+
 # Example Handout in Roll20
 
-![Overview of the Markdown Available in Roll20](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-Example.png)
+![Overview of Markdown Available in Roll20](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-Example.png)
 
 
