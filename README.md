@@ -110,6 +110,9 @@ Now copy/paste everything in *HERO-Example.md* to the **"GM Notes"** section of 
 
 In the **"Description & Notes"** section you should see the processed **Markdown** with its content like the image shown below.
 
+> [!TIP]
+> Once you are comfortable setting up the Markdown script, you may skip most of Part A. For a new sheet begin with a new handout named "Style Sheet." Paste the contents of *HERO-CSS-Markdown.css* into the **GM Notes section** and save the handout. The script will generate the necessary hash, e.g., "[css](-O3fF3GCNgPDgG9m9-4L)," which you may use in Part B.
+
 # Example Handout in Roll20
 
 ![Overview of Markdown Available in Roll20](https://github.com/Villain1nGlasses/HeroMarkdown/blob/main/HERO-Example.png)
