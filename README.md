@@ -16,7 +16,7 @@ Install the three mods (aka API scripts) into your game:
 For further documentation on installing mods, please visit the [Roll20 Mod (API) help page](https://help.roll20.net/hc/en-us/articles/360037256714-Roll20-Mods-API).
 
 ## Part 2 - Using the Markdown in a Roll20 Game
-Once you have installed the API scripts, launch the game in Roll20. To prepare a handout for application of markdown code, follow the steps below.
+Once you have installed the API scripts, launch the game in Roll20. To prepare a handout for application of markdown code follow the steps below.
 
 ### A. Getting Started
 Create a new **"Handout"** named **"Style Sheet"**. Scroll down to the **"GM Notes"** section and past the following two lines:
