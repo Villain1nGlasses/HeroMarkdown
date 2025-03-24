@@ -37,8 +37,8 @@ Like so:
 ![Style Sheet](/images/Style_Sheet_Example.png?raw=true)
 
 > [!NOTE]  
-> The "-O3fF3GCNgPDgG9m9-4L"` part is the object id for your handout. It will not be the same as you see in this example.
-> That is the "link" for this style sheet. ***Copy*** *the css line with code to the clipboard.*
+> The unique id "-O3fF3GCNgPDgG9m9-4L"` is the object id for the style sheet.
+> ***Copy*** your version of this line.
 
 Create a new handout named **"Markdown Handout"** and in the **"GM Notes"** paste the copied code. Add two additional lines of code like so:
 ```
@@ -46,7 +46,6 @@ Create a new handout named **"Markdown Handout"** and in the **"GM Notes"** past
 [css](-O3fF3GCNgPDgG9m9-4L)
 # This Heading should be red.
 ```
-(You should ***paste*** in what you *copied to the clipboard* to the second line.)
 > **Remember:** The "-O3fF3GCNgPDgG9m9-4L"` part is the object id for your handout. It will not be the same as you see in this example.
 > 
 **Save changes.**
@@ -71,11 +70,8 @@ Open the [HERO-CSS-Markdown file](https://github.com/Villain1nGlasses/HeroMarkdo
 
 with your updated object id.
 
-Now copy/paste everything in *HERO-CSS-Markdown.css* to the **"GM Notes"** section of the **"Style Sheet"** handout. **Delete** or overwrite the text that reads:
-```
-[css]
-h1 {color: red;}
-```
+Now copy everything in *HERO-CSS-Markdown.css* and paste it to the **"GM Notes"** section of the **"Style Sheet"** handout, overwriting the existing contents.
+
 **Save changes.**
 
 In the **"Description & Notes"** section you should see the processed **CSS**
