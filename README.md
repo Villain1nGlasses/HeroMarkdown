@@ -71,7 +71,7 @@ Open the [HERO-CSS-Markdown file](https://github.com/Villain1nGlasses/HeroMarkdo
 
 with your updated object id.
 
-Now copy/paste everything in *HERO-CSS-Markdown.css* to the **"GM Notes"** section of the  **"Style Sheet"** **"Handout"**. **Delete** or overwrite the text that reads:
+Now copy/paste everything in *HERO-CSS-Markdown.css* to the **"GM Notes"** section of the **"Style Sheet"** handout. **Delete** or overwrite the text that reads:
 ```
 [css]
 h1 {color: red;}
