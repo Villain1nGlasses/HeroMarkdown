@@ -40,7 +40,7 @@ Like so:
 > The "-O3fF3GCNgPDgG9m9-4L"` part is the object id for your handout. It will not be the same as you see in this example.
 > That is the "link" for this style sheet. ***Copy*** *the css line with code to the clipboard.*
 
-Create a new **"Handout"** named **"Markdown Handout"** and in the **"GM Notes"** paste the copied code. Add two additional lines of code like so:
+Create a new handout named **"Markdown Handout"** and in the **"GM Notes"** paste the copied code. Add two additional lines of code like so:
 ```
 [md]
 [css](-O3fF3GCNgPDgG9m9-4L)
